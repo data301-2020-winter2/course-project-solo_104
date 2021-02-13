@@ -7,11 +7,11 @@
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+With this analytics project, I hope to find interesting statistics based on sports and geography, such as which American state wins the most championships in American professional and collegiate sports leagues, or what country dominates each sport on a global level. What interests me the most from my dataset is how certain locations that were once dominate at a sport may become less dominate, and a observing which state or country becomes the new powerhouse in the given sport. I would like to explore questions such as 'What state/country dominates each sport the most overtime?' or 'How has dominance of a sport shifted from one team to another over the years?'.
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+The Pudding, a publishing/journalism company, created this dataset for one of their stories. My dataset contains data for every championship win in six pro sports leagues and six college sports, including the runners up in each championship when applicable. The data in my dataset spans from 1870 to 2018, giving a large span of time where dominant teams and sports powerhouses were constantly changing. My dataset is mainly for public interest and fun, but could also be used seriously by sports analysts and commentators. My data was collected from multiple public sports stat websites, who got their data from digitized records of sports wins throughout history.
 
 ## Team Members
 
