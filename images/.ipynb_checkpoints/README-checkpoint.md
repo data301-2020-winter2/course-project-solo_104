@@ -1,1 +1,2 @@
-Any external images I use will go in this directory.
+## images README
+Any **external images** I use will go in this *directory*.

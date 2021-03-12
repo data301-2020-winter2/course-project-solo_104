@@ -1,1 +1,2 @@
-All my jupyter notebook files will be in this directory.
+## analysis README
+All my **jupyter notebook files** will be in this *directory*.
