@@ -40,3 +40,17 @@ def load_and_process(path):
     )
     
     return df2
+
+def loadprocess_sortyear(path): #returns a processed dataframe similar to load_and_process, but sorted by year and no win streak column
+    
+    df = (
+        pd.read_csv(path)
+        .reset_index()
+        .drop(columns='index')
+        .rename(columns={'level_0':'Index','year':'Year','level':'Level','sport':'Sport','winner':'First Place','winner_metro':'First Place Hometown',
+                         'runner_up':'Second Place','runner_up_metro':'Second Place Hometown','final_four3':'Third Place',
+                         'final_four3_metro':'Third Place Hometown','final_four4':'Fourth Place','final_four4_metro':'Fourth Place Hometown'}) 
+        .assign(Level=df1['Level'].str.capitalize())
+    )
+    
+    return df
