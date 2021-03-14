@@ -1,5 +1,7 @@
 import pandas as pd
 import numpy as np
+import matplotlib as plt
+import seaborn as sns
 
 def load_and_process(path):
 
@@ -54,3 +56,33 @@ def loadprocess_sortyear(path): #returns a processed dataframe similar to load_a
     )
     
     return df
+
+def general_info(df):
+    
+    print(df.shape)
+    print(df.columns)
+    print(df.describe())
+
+def streaks(df): #gives information of counts of different win streaks, graphically and as numbers
+
+    print(df['Win Streak'].value_counts())
+    sns.countplot(x='Win Streak', data=df)
+    
+def placements(df,place,num): #gives top 10 teams that have placed in a certain top 4 position the most
+    
+    sns.countplot(y=place,data=df,order=df[place].value_counts().index[:num])
+    
+def placements_and_streaks(df,place,num): #gives top 10 teams that have placed in a certain top 4 position the most
+    
+    sns.countplot(y=place,data=df,hue='Win Streak',order=df[place].value_counts().index[:num])
+    
+def topteam_sport(df):
+
+    sns.countplot(y='First Place',hue='Sport',data=df,order=df['First Place'].value_counts().index[:20])
+    
+def winstreak_history(df,team,sport):
+    
+    df1 = df[(df['First Place']==team)&(df['Sport']==sport)]
+    minyear = df1['Year'].min()
+    maxyear = df1['Year'].max()
+    sns.distplot(data=df1,x=df1['Year'],hue='Win Streak')
