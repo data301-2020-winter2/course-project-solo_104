@@ -66,23 +66,28 @@ def general_info(df):
 def streaks(df): #gives information of counts of different win streaks, graphically and as numbers
 
     print(df['Win Streak'].value_counts())
-    sns.countplot(x='Win Streak', data=df)
+    sns.countplot(x='Win Streak', data=df).set_title('Count of each Win Streak Length')
     
-def placements(df,place,num): #gives top 10 teams that have placed in a certain top 4 position the most
+def placements(df,place,num): #gives top num teams that have placed First the most
     
-    sns.countplot(y=place,data=df,order=df[place].value_counts().index[:num])
+    sns.countplot(y=place,data=df,order=df[place].value_counts().index[:num]).set_title('Top Teams Based on Placement')
     
-def placements_and_streaks(df,place,num): #gives top 10 teams that have placed in a certain top 4 position the most
+def placements_and_streaks(df,place,num): #gives top num teams that have placed First the most, including Win Streaks
     
-    sns.countplot(y=place,data=df,hue='Win Streak',order=df[place].value_counts().index[:num])
+    sns.countplot(y=place,data=df,hue='Win Streak',order=df[place].value_counts().index[:num]).set_title('Top Teams Based on Placement and Their Win Streaks')
     
-def topteam_sport(df):
+def topteam_sport(df): #gives the top 20 teams that have placed First the most, including the sport they win in
 
-    sns.countplot(y='First Place',hue='Sport',data=df,order=df['First Place'].value_counts().index[:20])
+    sns.countplot(y='First Place',hue='Sport',data=df,order=df['First Place'].value_counts().index[:20]).set_title(' The Best Teams and the Sport They Play')
     
-def winstreak_history(df,team,sport):
+def winstreak_history(df,team,sport): #gives a visual history of all a team's wins in history
     
     df1 = df[(df['First Place']==team)&(df['Sport']==sport)]
     minyear = df1['Year'].min()
     maxyear = df1['Year'].max()
-    sns.distplot(data=df1,x=df1['Year'],hue='Win Streak')
+    sns.distplot(df1['Year'], kde=False, bins=(maxyear-minyear)).set_title('Win History')
+    
+def team_weakness(df,team): #gives all the teams that have defeated a team in the finals, and the number of times they have beaten them
+    
+    df2 = df[(df['Second Place']==team)]
+    sns.countplot(y='First Place',data=df2,order=df2['First Place'].value_counts().index[:10]).set_title("The New York Giant's Weaknesses")

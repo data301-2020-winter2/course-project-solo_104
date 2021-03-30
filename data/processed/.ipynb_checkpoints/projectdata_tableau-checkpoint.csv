@@ -1,0 +1,997 @@
+Index,Year,Level,Sport,First Place,First Place Hometown,Second Place,Second Place Hometown,Third Place,Third Place Hometown,Fourth Place,Fourth Place Hometown,Win Streak
+238,1947,College,Baseball (M),California Golden Bears,"San Francisco Bay Area, CA",Yale Bulldogs,"New Haven, CT",New York University Violets,New York Metro Area,Texas Longhorns,"Austin, TX",1
+246,1948,College,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Yale Bulldogs,"New Haven, CT",Lafayette Leopards,"Lehigh Valley, NJ-PA",Baylor Bears,"Waco, TX",1
+254,1949,College,Baseball (M),Texas Longhorns,"Austin, TX",Wake Forest Demon Deacons,"Winston-Salem, NC",Wake Forest Demon Deacons,"Winston-Salem, NC",USC Trojans,"Greater Los Angeles, CA",1
+262,1950,College,Baseball (M),Texas Longhorns,"Austin, TX",Washington State Cougars,"Pullman, WA",Rutgers Scarlet Knights,"New Brunswick, NJ",Wisconsin Badgers,"Madison, WI",2
+270,1951,College,Baseball (M),Oklahoma Sooners,"Oklahoma City, OK",Tennessee Volunteers,"Knoxville, TN",USC Trojans,"Greater Los Angeles, CA",Utah Utes,"Salt Lake City, UT",1
+278,1952,College,Baseball (M),Holy Cross Crusaders,"Worcester, MA",Missouri Tigers,"Columbia, MO",Penn State Nittany Lions,"State College, PA",Western Michigan Broncos,"Kalamazoo, MI",1
+286,1953,College,Baseball (M),Michigan Wolverines,"Ann Arbor, MI",Texas Longhorns,"Austin, TX",Michigan Wolverines,"Ann Arbor, MI",Boston College Eagles,"Greater Boston, MA",1
+294,1954,College,Baseball (M),Missouri Tigers,"Columbia, MO",Rollins Tars,"Greater Orlando, FL",Michigan State Spartans,"East Lansing, MI",Oklahoma State Cowboys,"Stillwater, OK",1
+303,1955,College,Baseball (M),Wake Forest Demon Deacons,"Winston-Salem, NC",Western Michigan Broncos,"Kalamazoo, MI",Arizona Wildcats,"Tucson, AZ",Oklahoma State Cowboys,"Stillwater, OK",1
+311,1956,College,Baseball (M),Minnesota Golden Gophers,"Twin Cities, MN",Arizona Wildcats,"Tucson, AZ",Bradley Braves,"Peoria, IL",Ole Miss Rebels,"Oxford, MS",1
+319,1957,College,Baseball (M),California Golden Bears,"San Francisco Bay Area, CA",Penn State Nittany Lions,"State College, PA",Iowa State Cyclones,"Ames, IA",Notre Dame Fighting Irish,"Notre Dame, IN",1
+328,1958,College,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Missouri Tigers,"Columbia, MO",Western Michigan Broncos,"Kalamazoo, MI",Holy Cross Crusaders,"Worcester, MA",1
+337,1959,College,Baseball (M),Oklahoma State Cowboys,"Stillwater, OK",Arizona Wildcats,"Tucson, AZ",Penn State Nittany Lions,"State College, PA",Fresno State Bulldogs,"Fresno, CA",1
+345,1960,College,Baseball (M),Minnesota Golden Gophers,"Twin Cities, MN",USC Trojans,"Greater Los Angeles, CA",Arizona Wildcats,"Tucson, AZ",Oklahoma State Cowboys,"Stillwater, OK",1
+354,1961,College,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Oklahoma State Cowboys,"Stillwater, OK",Syracuse Orange,"Syracuse, NY",Boston College Eagles,"Greater Boston, MA",1
+363,1962,College,Baseball (M),Michigan Wolverines,"Ann Arbor, MI",Santa Clara Broncos,"San Jose-Santa Clara, CA",Florida State Seminoles,"Tallahassee, FL",Texas Longhorns,"Austin, TX",1
+371,1963,College,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Arizona Wildcats,"Tucson, AZ",Texas Longhorns,"Austin, TX",Missouri Tigers,"Columbia, MO",1
+379,1964,College,Baseball (M),Minnesota Golden Gophers,"Twin Cities, MN",Missouri Tigers,"Columbia, MO",Maine Black Bears,"Orono, ME",USC Trojans,"Greater Los Angeles, CA",1
+389,1965,College,Baseball (M),Arizona State Sun Devils,"Metro Phoenix, AZ",Ohio State Buckeyes,"Columbus, OH",Saint Louis Billikens,"St. Louis, MO",Washington State Cougars,"Pullman, WA",1
+398,1966,College,Baseball (M),Ohio State Buckeyes,"Columbus, OH",Oklahoma State Cowboys,"Stillwater, OK",USC Trojans,"Greater Los Angeles, CA",St. John's Red Storm,New York Metro Area,1
+408,1967,College,Baseball (M),Arizona State Sun Devils,"Metro Phoenix, AZ",Houston Cougars,"Houston, TX",Stanford Cardinal,"San Francisco Bay Area, CA",Auburn Tigers,"Auburn, AL",1
+416,1968,College,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Southern Illinois Salukis,"Carbondale, IL",North Carolina State Wolfpack,"Greater Raleigh, NC",St. John's Red Storm,New York Metro Area,1
+424,1969,College,Baseball (M),Arizona State Sun Devils,"Metro Phoenix, AZ",Tulsa Golden Hurricane,"Tulsa, OK",New York University Violets,New York Metro Area,Texas Longhorns,"Austin, TX",1
+432,1970,College,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Florida State Seminoles,"Tallahassee, FL",Texas Longhorns,"Austin, TX",Ohio Bobcats,"Athens, OH",1
+442,1971,College,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Southern Illinois Salukis,"Carbondale, IL",Tulsa Golden Hurricane,"Tulsa, OK",UTRGV Vaqueros,"Edinburg, TX",2
+450,1972,College,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Arizona State Sun Devils,"Metro Phoenix, AZ",Temple Owls,"Greater Philadelphia, PA",Texas Longhorns,"Austin, TX",3
+458,1973,College,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Arizona State Sun Devils,"Metro Phoenix, AZ",Minnesota Golden Gophers,"Twin Cities, MN",Texas Longhorns,"Austin, TX",4
+467,1974,College,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Miami Hurricanes,"Greater Miami Area, FL",Southern Illinois Salukis,"Carbondale, IL",Texas Longhorns,"Austin, TX",5
+476,1975,College,Baseball (M),Texas Longhorns,"Austin, TX",South Carolina Gamecocks,"Columbia, SC",Arizona Wildcats,"Tucson, AZ",Oklahoma Sooners,"Oklahoma City, OK",1
+484,1976,College,Baseball (M),Arizona Wildcats,"Tucson, AZ",Eastern Michigan Eagles,"Ann Arbor, MI",Arizona State Sun Devils,"Metro Phoenix, AZ",Maine Black Bears,"Orono, ME",1
+492,1977,College,Baseball (M),Arizona State Sun Devils,"Metro Phoenix, AZ",South Carolina Gamecocks,"Columbia, SC",Southern Illinois Salukis,"Carbondale, IL",Cal State Los Angeles Golden Eagles,"Greater Los Angeles, CA",1
+500,1978,College,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Arizona State Sun Devils,"Metro Phoenix, AZ",North Carolina Tar Heels,"Greater Raleigh, NC",Miami Hurricanes,"Greater Miami Area, FL",1
+510,1979,College,Baseball (M),Cal State Fullerton Titans,"Greater Los Angeles, CA",Arkansas Razorbacks,"Northwest Arkansas, AR",Texas Longhorns,"Austin, TX",Pepperdine Waves,"Greater Los Angeles, CA",1
+519,1980,College,Baseball (M),Arizona Wildcats,"Tucson, AZ",Hawaii Warriors,"Honolulu, HI",Miami Hurricanes,"Greater Miami Area, FL",Cal State Los Angeles Golden Eagles,"Greater Los Angeles, CA",1
+528,1981,College,Baseball (M),Arizona State Sun Devils,"Metro Phoenix, AZ",Oklahoma State Cowboys,"Stillwater, OK",Texas Longhorns,"Austin, TX",South Carolina Gamecocks,"Columbia, SC",1
+539,1982,College,Baseball (M),Miami Hurricanes,"Greater Miami Area, FL",Wichita State Shockers,"Wichita, KS",Maine Black Bears,"Orono, ME",Texas Longhorns,"Austin, TX",1
+551,1983,College,Baseball (M),Texas Longhorns,"Austin, TX",Alabama Crimson Tide,"Tuscaloosa, AL",Michigan Wolverines,"Ann Arbor, MI",Arizona State Sun Devils,"Metro Phoenix, AZ",1
+563,1984,College,Baseball (M),Cal State Fullerton Titans,"Greater Los Angeles, CA",Texas Longhorns,"Austin, TX",Oklahoma State Cowboys,"Stillwater, OK",Arizona State Sun Devils,"Metro Phoenix, AZ",1
+575,1985,College,Baseball (M),Miami Hurricanes,"Greater Miami Area, FL",Texas Longhorns,"Austin, TX",Arkansas Razorbacks,"Northwest Arkansas, AR",Mississippi State Bulldogs,"Starkville, MS",1
+587,1986,College,Baseball (M),Arizona Wildcats,"Tucson, AZ",Florida State Seminoles,"Tallahassee, FL",Miami Hurricanes,"Greater Miami Area, FL",Oklahoma State Cowboys,"Stillwater, OK",1
+599,1987,College,Baseball (M),Stanford Cardinal,"San Francisco Bay Area, CA",Oklahoma State Cowboys,"Stillwater, OK",Texas Longhorns,"Austin, TX",LSU Fighting Tigers,"Baton Rouge, LA",1
+611,1988,College,Baseball (M),Stanford Cardinal,"San Francisco Bay Area, CA",Arizona State Sun Devils,"Metro Phoenix, AZ",Wichita State Shockers,"Wichita, KS",Cal State Fullerton Titans,"Greater Los Angeles, CA",2
+623,1989,College,Baseball (M),Wichita State Shockers,"Wichita, KS",Texas Longhorns,"Austin, TX",Florida State Seminoles,"Tallahassee, FL",LSU Fighting Tigers,"Baton Rouge, LA",1
+635,1990,College,Baseball (M),Georgia Bulldogs,"Athens, GA",Oklahoma State Cowboys,"Stillwater, OK",Stanford Cardinal,"San Francisco Bay Area, CA",LSU Fighting Tigers,"Baton Rouge, LA",1
+648,1991,College,Baseball (M),LSU Fighting Tigers,"Baton Rouge, LA",Wichita State Shockers,"Wichita, KS",Florida Gators,"Gainesville, FL",Creighton Bluejays,"Omaha, NE",1
+661,1992,College,Baseball (M),Pepperdine Waves,"Greater Los Angeles, CA",Cal State Fullerton Titans,"Greater Los Angeles, CA",Miami Hurricanes,"Greater Miami Area, FL",Texas Longhorns,"Austin, TX",1
+672,1993,College,Baseball (M),LSU Fighting Tigers,"Baton Rouge, LA",Wichita State Shockers,"Wichita, KS",Long Beach State 49ers,"Greater Los Angeles, CA",Oklahoma State Cowboys,"Stillwater, OK",1
+684,1994,College,Baseball (M),Oklahoma Sooners,"Oklahoma City, OK",Georgia Tech Yellow Jackets,"Atlanta, GA",Cal State Fullerton Titans,"Greater Los Angeles, CA",Arizona State Sun Devils,"Metro Phoenix, AZ",1
+696,1995,College,Baseball (M),Cal State Fullerton Titans,"Greater Los Angeles, CA",USC Trojans,"Greater Los Angeles, CA",Miami Hurricanes,"Greater Miami Area, FL",Tennessee Volunteers,"Knoxville, TN",1
+708,1996,College,Baseball (M),LSU Fighting Tigers,"Baton Rouge, LA",Miami Hurricanes,"Greater Miami Area, FL",Clemson Tigers,"Greenville, SC",Florida Gators,"Gainesville, FL",1
+720,1997,College,Baseball (M),LSU Fighting Tigers,"Baton Rouge, LA",Alabama Crimson Tide,"Tuscaloosa, AL",Miami Hurricanes,"Greater Miami Area, FL",Stanford Cardinal,"San Francisco Bay Area, CA",2
+734,1998,College,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Arizona State Sun Devils,"Metro Phoenix, AZ",LSU Fighting Tigers,"Baton Rouge, LA",Long Beach State 49ers,"Greater Los Angeles, CA",1
+748,1999,College,Baseball (M),Miami Hurricanes,"Greater Miami Area, FL",Florida State Seminoles,"Tallahassee, FL",Alabama Crimson Tide,"Tuscaloosa, AL",Stanford Cardinal,"San Francisco Bay Area, CA",1
+760,2000,College,Baseball (M),LSU Fighting Tigers,"Baton Rouge, LA",Stanford Cardinal,"San Francisco Bay Area, CA",Louisiana Ragin' Cajuns,"Lafayette, LA",Florida State Seminoles,"Tallahassee, FL",1
+774,2001,College,Baseball (M),Miami Hurricanes,"Greater Miami Area, FL",Stanford Cardinal,"San Francisco Bay Area, CA",Cal State Fullerton Titans,"Greater Los Angeles, CA",Tennessee Volunteers,"Knoxville, TN",1
+787,2002,College,Baseball (M),Texas Longhorns,"Austin, TX",South Carolina Gamecocks,"Columbia, SC",Stanford Cardinal,"San Francisco Bay Area, CA",Clemson Tigers,"Greenville, SC",1
+800,2003,College,Baseball (M),Rice Owls,"Houston, TX",Stanford Cardinal,"San Francisco Bay Area, CA",Texas Longhorns,"Austin, TX",Cal State Fullerton Titans,"Greater Los Angeles, CA",1
+814,2004,College,Baseball (M),Cal State Fullerton Titans,"Greater Los Angeles, CA",Texas Longhorns,"Austin, TX",Georgia Bulldogs,"Athens, GA",South Carolina Gamecocks,"Columbia, SC",1
+826,2005,College,Baseball (M),Texas Longhorns,"Austin, TX",Florida Gators,"Gainesville, FL",Arizona State Sun Devils,"Metro Phoenix, AZ",Baylor Bears,"Waco, TX",1
+838,2006,College,Baseball (M),Oregon State Beavers,"Corvallis, OR",North Carolina Tar Heels,"Greater Raleigh, NC",Cal State Fullerton Titans,"Greater Los Angeles, CA",Rice Owls,"Houston, TX",1
+851,2007,College,Baseball (M),Oregon State Beavers,"Corvallis, OR",North Carolina Tar Heels,"Greater Raleigh, NC",California-Irvine Anteaters,"Greater Los Angeles, CA",Rice Owls,"Houston, TX",2
+865,2008,College,Baseball (M),Fresno State Bulldogs,"Fresno, CA",Georgia Bulldogs,"Athens, GA",Stanford Cardinal,"San Francisco Bay Area, CA",North Carolina Tar Heels,"Greater Raleigh, NC",1
+877,2009,College,Baseball (M),LSU Fighting Tigers,"Baton Rouge, LA",Texas Longhorns,"Austin, TX",Arkansas Razorbacks,"Northwest Arkansas, AR",Arizona State Sun Devils,"Metro Phoenix, AZ",1
+891,2010,College,Baseball (M),South Carolina Gamecocks,"Columbia, SC",UCLA Bruins,"Greater Los Angeles, CA",Texas Christian Horned Frogs,"Dallas-Fort Worth, TX",Clemson Tigers,"Greenville, SC",1
+904,2011,College,Baseball (M),South Carolina Gamecocks,"Columbia, SC",Florida Gators,"Gainesville, FL",Virginia Cavaliers,"Charlottesville, VA",Vanderbilt Commodores,"Nashville, TN",2
+917,2012,College,Baseball (M),Arizona Wildcats,"Tucson, AZ",South Carolina Gamecocks,"Columbia, SC",Florida State Seminoles,"Tallahassee, FL",Arkansas Razorbacks,"Northwest Arkansas, AR",1
+929,2013,College,Baseball (M),UCLA Bruins,"Greater Los Angeles, CA",Mississippi State Bulldogs,"Starkville, MS",North Carolina Tar Heels,"Greater Raleigh, NC",Oregon State Beavers,"Corvallis, OR",1
+941,2014,College,Baseball (M),Vanderbilt Commodores,"Nashville, TN",Virginia Cavaliers,"Charlottesville, VA",Texas Longhorns,"Austin, TX",Ole Miss Rebels,"Oxford, MS",1
+955,2015,College,Baseball (M),Virginia Cavaliers,"Charlottesville, VA",Vanderbilt Commodores,"Nashville, TN",Florida Gators,"Gainesville, FL",Texas Christian Horned Frogs,"Dallas-Fort Worth, TX",1
+968,2016,College,Baseball (M),Coastal Carolina Chanticleers,"Myrtle Beach Metro Area, SC",Arizona Wildcats,"Tucson, AZ",Oklahoma State Cowboys,"Stillwater, OK",Texas Christian Horned Frogs,"Dallas-Fort Worth, TX",1
+981,2017,College,Baseball (M),Florida Gators,"Gainesville, FL",LSU Fighting Tigers,"Baton Rouge, LA",Oregon State Beavers,"Corvallis, OR",Texas Christian Horned Frogs,"Dallas-Fort Worth, TX",1
+994,2018,College,Baseball (M),Oregon State Beavers,"Corvallis, OR",Arkansas Razorbacks,"Northwest Arkansas, AR",Mississippi State Bulldogs,"Starkville, MS",Florida Gators,"Gainesville, FL",1
+187,1939,College,Basketball (M),Oregon Ducks,"Eugene, OR",Ohio State Buckeyes,"Columbus, OH",Oklahoma Sooners,"Oklahoma City, OK",Villanova Wildcats,"Greater Philadelphia, PA",1
+193,1940,College,Basketball (M),Indiana Hoosiers,"Bloomington, IN",Kansas Jayhawks,"Lawrence, KS",Duquesne Dukes,"Pittsburgh, PA",USC Trojans,"Greater Los Angeles, CA",1
+199,1941,College,Basketball (M),Wisconsin Badgers,"Madison, WI",Washington State Cougars,"Pullman, WA",Pittsburgh Panthers,"Pittsburgh, PA",Arkansas Razorbacks,"Northwest Arkansas, AR",1
+205,1942,College,Basketball (M),Stanford Cardinal,"San Francisco Bay Area, CA",Dartmouth Big Green,"Hanover, PA",Colorado Buffaloes,"Boulder, CO",Kentucky Wildcats,"Lexington-Fayette, KY",1
+211,1943,College,Basketball (M),Wyoming Cowboys,"Cheyenne, WY",Georgetown Hoyas,"Washington, DC Metro Area",Texas Longhorns,"Austin, TX",DePaul Blue Demons,"Chicago, IL",1
+217,1944,College,Basketball (M),Utah Utes,"Salt Lake City, UT",Dartmouth Big Green,"Hanover, PA",Iowa State Cyclones,"Ames, IA",Ohio State Buckeyes,"Columbus, OH",1
+223,1945,College,Basketball (M),Oklahoma State Cowboys,"Stillwater, OK",New York University Violets,New York Metro Area,Arkansas Razorbacks,"Northwest Arkansas, AR",Ohio State Buckeyes,"Columbus, OH",1
+229,1946,College,Basketball (M),Oklahoma State Cowboys,"Stillwater, OK",North Carolina Tar Heels,"Greater Raleigh, NC",Ohio State Buckeyes,"Columbus, OH",California Golden Bears,"San Francisco Bay Area, CA",2
+235,1947,College,Basketball (M),Holy Cross Crusaders,"Worcester, MA",Oklahoma Sooners,"Oklahoma City, OK",Texas Longhorns,"Austin, TX",City College of New York Beavers,New York Metro Area,1
+243,1948,College,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Baylor Bears,"Waco, TX",Holy Cross Crusaders,"Worcester, MA",Kansas State Wildcats,"Manhattan, KS",1
+251,1949,College,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Oklahoma State Cowboys,"Stillwater, OK",Illinois Fighting Illini,"Champaign-Urbana, IL",Oregon State Beavers,"Corvallis, OR",2
+259,1950,College,Basketball (M),City College of New York Beavers,New York Metro Area,Bradley Braves,"Peoria, IL",North Carolina State Wolfpack,"Greater Raleigh, NC",Baylor Bears,"Waco, TX",1
+267,1951,College,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Kansas State Wildcats,"Manhattan, KS",Illinois Fighting Illini,"Champaign-Urbana, IL",Oklahoma State Cowboys,"Stillwater, OK",1
+275,1952,College,Basketball (M),Kansas Jayhawks,"Lawrence, KS",St. John's Red Storm,New York Metro Area,Illinois Fighting Illini,"Champaign-Urbana, IL",Santa Clara Broncos,"San Jose-Santa Clara, CA",1
+283,1953,College,Basketball (M),Indiana Hoosiers,"Bloomington, IN",Kansas Jayhawks,"Lawrence, KS",Washington Huskies,"Seattle,WA",LSU Fighting Tigers,"Baton Rouge, LA",1
+291,1954,College,Basketball (M),La Salle Explorers,"Greater Philadelphia, PA",Bradley Braves,"Peoria, IL",Penn State Nittany Lions,"State College, PA",South Carolina Gamecocks,"Columbia, SC",1
+300,1955,College,Basketball (M),San Francisco Dons,"San Francisco Bay Area, CA",La Salle Explorers,"Greater Philadelphia, PA",Colorado Buffaloes,"Boulder, CO",Iowa Hawkeyes,"Iowa City, IA",1
+308,1956,College,Basketball (M),San Francisco Dons,"San Francisco Bay Area, CA",Iowa Hawkeyes,"Iowa City, IA",Temple Owls,"Greater Philadelphia, PA",Saint Mary's Gaels,"San Francisco Bay Area, CA",2
+316,1957,College,Basketball (M),North Carolina Tar Heels,"Greater Raleigh, NC",Kansas Jayhawks,"Lawrence, KS",San Francisco Dons,"San Francisco Bay Area, CA",Michigan State Spartans,"East Lansing, MI",1
+325,1958,College,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Seattle Redhawks,"Seattle,WA",Temple Owls,"Greater Philadelphia, PA",Kansas State Wildcats,"Manhattan, KS",1
+334,1959,College,Basketball (M),California Golden Bears,"San Francisco Bay Area, CA",West Virginia Mountaineers,"Morgantown, WV",Cincinnati Bearcats,"Cincinnati, OH",Louisville Cardinals,"Louisville, KY",1
+342,1960,College,Basketball (M),Ohio State Buckeyes,"Columbus, OH",California Golden Bears,"San Francisco Bay Area, CA",Cincinnati Bearcats,"Cincinnati, OH",New York University Violets,New York Metro Area,1
+351,1961,College,Basketball (M),Cincinnati Bearcats,"Cincinnati, OH",Ohio State Buckeyes,"Columbus, OH",,,Utah Utes,"Salt Lake City, UT",1
+360,1962,College,Basketball (M),Cincinnati Bearcats,"Cincinnati, OH",Ohio State Buckeyes,"Columbus, OH",Wake Forest Demon Deacons,"Winston-Salem, NC",UCLA Bruins,"Greater Los Angeles, CA",2
+368,1963,College,Basketball (M),Loyola Ramblers,"Chicago, IL",Cincinnati Bearcats,"Cincinnati, OH",Duke Blue Devils,"Greater Raleigh, NC",Oregon State Beavers,"Corvallis, OR",1
+376,1964,College,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Duke Blue Devils,"Greater Raleigh, NC",Michigan Wolverines,"Ann Arbor, MI",Kansas State Wildcats,"Manhattan, KS",1
+386,1965,College,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Michigan Wolverines,"Ann Arbor, MI",Princeton Tigers,"Princeton, NJ",Wichita State Shockers,"Wichita, KS",2
+395,1966,College,Basketball (M),UTEP Miners,"El Paso, TX",Kentucky Wildcats,"Lexington-Fayette, KY",Duke Blue Devils,"Greater Raleigh, NC",Utah Utes,"Salt Lake City, UT",1
+405,1967,College,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Dayton Flyers,"Dayton, OH",Houston Cougars,"Houston, TX",North Carolina Tar Heels,"Greater Raleigh, NC",1
+413,1968,College,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",North Carolina Tar Heels,"Greater Raleigh, NC",Ohio State Buckeyes,"Columbus, OH",Houston Cougars,"Houston, TX",2
+421,1969,College,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Purdue Boilermakers,"West Lafayette, IN",Drake Bulldogs,"Des Moines, IA",North Carolina Tar Heels,"Greater Raleigh, NC",3
+429,1970,College,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Jacksonville Dolphins,"Jacksonville, FL",New Mexico State Aggies,"Las Cruces, NM",St. Bonaventure Bonnies,"Allegany, NY",4
+439,1971,College,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Villanova Wildcats,"Greater Philadelphia, PA",Western Kentucky Hilltoppers,"Bowling Green, KY",Kansas Jayhawks,"Lawrence, KS",5
+447,1972,College,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Florida State Seminoles,"Tallahassee, FL",North Carolina Tar Heels,"Greater Raleigh, NC",Louisville Cardinals,"Louisville, KY",6
+455,1973,College,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Memphis Tigers,"Memphis, TN",Indiana Hoosiers,"Bloomington, IN",Providence Friars,"Providence, RI",7
+464,1974,College,Basketball (M),North Carolina State Wolfpack,"Greater Raleigh, NC",Marquette Golden Eagles,"Milwaukee, WI",UCLA Bruins,"Greater Los Angeles, CA",Kansas Jayhawks,"Lawrence, KS",1
+473,1975,College,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Kentucky Wildcats,"Lexington-Fayette, KY",Louisville Cardinals,"Louisville, KY",Syracuse Orange,"Syracuse, NY",1
+481,1976,College,Basketball (M),Indiana Hoosiers,"Bloomington, IN",Michigan Wolverines,"Ann Arbor, MI",UCLA Bruins,"Greater Los Angeles, CA",Rutgers Scarlet Knights,"New Brunswick, NJ",1
+489,1977,College,Basketball (M),Marquette Golden Eagles,"Milwaukee, WI",North Carolina Tar Heels,"Greater Raleigh, NC",Nevada-Las Vegas Rebels,"Las Vegas, NV",Charlotte 49ers,"Charlotte Metro Area, NC",1
+497,1978,College,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Duke Blue Devils,"Greater Raleigh, NC",Arkansas Razorbacks,"Northwest Arkansas, AR",Notre Dame Fighting Irish,"Notre Dame, IN",1
+507,1979,College,Basketball (M),Michigan State Spartans,"East Lansing, MI",Indiana State Sycamores,"Terre Haute, IN",DePaul Blue Demons,"Chicago, IL",Pennsylvania Quakers,"Greater Philadelphia, PA",1
+516,1980,College,Basketball (M),Louisville Cardinals,"Louisville, KY",,,Purdue Boilermakers,"West Lafayette, IN",Iowa Hawkeyes,"Iowa City, IA",1
+525,1981,College,Basketball (M),Indiana Hoosiers,"Bloomington, IN",North Carolina Tar Heels,"Greater Raleigh, NC",Virginia Cavaliers,"Charlottesville, VA",LSU Fighting Tigers,"Baton Rouge, LA",1
+535,1982,College,Basketball (M),North Carolina Tar Heels,"Greater Raleigh, NC",Georgetown Hoyas,"Washington, DC Metro Area",Houston Cougars,"Houston, TX",Louisville Cardinals,"Louisville, KY",1
+547,1983,College,Basketball (M),North Carolina State Wolfpack,"Greater Raleigh, NC",Houston Cougars,"Houston, TX",Georgia Bulldogs,"Athens, GA",Louisville Cardinals,"Louisville, KY",1
+559,1984,College,Basketball (M),Georgetown Hoyas,"Washington, DC Metro Area",Houston Cougars,"Houston, TX",Kentucky Wildcats,"Lexington-Fayette, KY",Virginia Cavaliers,"Charlottesville, VA",1
+571,1985,College,Basketball (M),Villanova Wildcats,"Greater Philadelphia, PA",Georgetown Hoyas,"Washington, DC Metro Area",St. John's Red Storm,New York Metro Area,,,1
+583,1986,College,Basketball (M),Louisville Cardinals,"Louisville, KY",Duke Blue Devils,"Greater Raleigh, NC",LSU Fighting Tigers,"Baton Rouge, LA",Kansas Jayhawks,"Lawrence, KS",1
+595,1987,College,Basketball (M),Indiana Hoosiers,"Bloomington, IN",Syracuse Orange,"Syracuse, NY",Nevada-Las Vegas Rebels,"Las Vegas, NV",Providence Friars,"Providence, RI",1
+607,1988,College,Basketball (M),Kansas Jayhawks,"Lawrence, KS",Oklahoma Sooners,"Oklahoma City, OK",Duke Blue Devils,"Greater Raleigh, NC",Arizona Wildcats,"Tucson, AZ",1
+619,1989,College,Basketball (M),Michigan Wolverines,"Ann Arbor, MI",Seton Hall Pirates,"South Orange, NJ",Illinois Fighting Illini,"Champaign-Urbana, IL",Duke Blue Devils,"Greater Raleigh, NC",1
+631,1990,College,Basketball (M),Nevada-Las Vegas Rebels,"Las Vegas, NV",Duke Blue Devils,"Greater Raleigh, NC",Georgia Tech Yellow Jackets,"Atlanta, GA",Arkansas Razorbacks,"Northwest Arkansas, AR",1
+644,1991,College,Basketball (M),Duke Blue Devils,"Greater Raleigh, NC",Kansas Jayhawks,"Lawrence, KS",Nevada-Las Vegas Rebels,"Las Vegas, NV",North Carolina Tar Heels,"Greater Raleigh, NC",1
+657,1992,College,Basketball (M),Duke Blue Devils,"Greater Raleigh, NC",,,Indiana Hoosiers,"Bloomington, IN",Cincinnati Bearcats,"Cincinnati, OH",2
+669,1993,College,Basketball (M),North Carolina Tar Heels,"Greater Raleigh, NC",,,Kansas Jayhawks,"Lawrence, KS",Kentucky Wildcats,"Lexington-Fayette, KY",1
+681,1994,College,Basketball (M),Arkansas Razorbacks,"Northwest Arkansas, AR",Duke Blue Devils,"Greater Raleigh, NC",Arizona Wildcats,"Tucson, AZ",Florida Gators,"Gainesville, FL",1
+692,1995,College,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Arkansas Razorbacks,"Northwest Arkansas, AR",Oklahoma State Cowboys,"Stillwater, OK",North Carolina Tar Heels,"Greater Raleigh, NC",1
+704,1996,College,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Syracuse Orange,"Syracuse, NY",Mississippi State Bulldogs,"Starkville, MS",,,1
+717,1997,College,Basketball (M),Arizona Wildcats,"Tucson, AZ",Kentucky Wildcats,"Lexington-Fayette, KY",North Carolina Tar Heels,"Greater Raleigh, NC",,,1
+731,1998,College,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Utah Utes,"Salt Lake City, UT",Stanford Cardinal,"San Francisco Bay Area, CA",North Carolina Tar Heels,"Greater Raleigh, NC",1
+744,1999,College,Basketball (M),Connecticut Huskies,"Hartford, CT",Duke Blue Devils,"Greater Raleigh, NC",Michigan State Spartans,"East Lansing, MI",,,1
+757,2000,College,Basketball (M),Michigan State Spartans,"East Lansing, MI",Florida Gators,"Gainesville, FL",Wisconsin Badgers,"Madison, WI",North Carolina Tar Heels,"Greater Raleigh, NC",1
+770,2001,College,Basketball (M),Duke Blue Devils,"Greater Raleigh, NC",Arizona Wildcats,"Tucson, AZ",Maryland Terrapins,"Washington, DC Metro Area",Michigan State Spartans,"East Lansing, MI",1
+783,2002,College,Basketball (M),Maryland Terrapins,"Washington, DC Metro Area",Indiana Hoosiers,"Bloomington, IN",Kansas Jayhawks,"Lawrence, KS",Oklahoma Sooners,"Oklahoma City, OK",1
+796,2003,College,Basketball (M),Syracuse Orange,"Syracuse, NY",Kansas Jayhawks,"Lawrence, KS",Texas Longhorns,"Austin, TX",Marquette Golden Eagles,"Milwaukee, WI",1
+810,2004,College,Basketball (M),Connecticut Huskies,"Hartford, CT",Georgia Tech Yellow Jackets,"Atlanta, GA",Duke Blue Devils,"Greater Raleigh, NC",Oklahoma State Cowboys,"Stillwater, OK",1
+823,2005,College,Basketball (M),North Carolina Tar Heels,"Greater Raleigh, NC",Illinois Fighting Illini,"Champaign-Urbana, IL",Michigan State Spartans,"East Lansing, MI",Louisville Cardinals,"Louisville, KY",1
+835,2006,College,Basketball (M),Florida Gators,"Gainesville, FL",UCLA Bruins,"Greater Los Angeles, CA",George Mason Patriots,"Washington, DC Metro Area",LSU Fighting Tigers,"Baton Rouge, LA",1
+848,2007,College,Basketball (M),Florida Gators,"Gainesville, FL",Ohio State Buckeyes,"Columbus, OH",UCLA Bruins,"Greater Los Angeles, CA",Georgetown Hoyas,"Washington, DC Metro Area",2
+861,2008,College,Basketball (M),Kansas Jayhawks,"Lawrence, KS",,,North Carolina Tar Heels,"Greater Raleigh, NC",UCLA Bruins,"Greater Los Angeles, CA",1
+874,2009,College,Basketball (M),North Carolina Tar Heels,"Greater Raleigh, NC",Michigan State Spartans,"East Lansing, MI",Villanova Wildcats,"Greater Philadelphia, PA",Connecticut Huskies,"Hartford, CT",1
+887,2010,College,Basketball (M),Duke Blue Devils,"Greater Raleigh, NC",Butler Bulldogs,"Indianapolis Metro Area, IN",West Virginia Mountaineers,"Morgantown, WV",Michigan State Spartans,"East Lansing, MI",1
+900,2011,College,Basketball (M),Connecticut Huskies,"Hartford, CT",Butler Bulldogs,"Indianapolis Metro Area, IN",Kentucky Wildcats,"Lexington-Fayette, KY",VCU Rams,"Richmond, VA",1
+913,2012,College,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Kansas Jayhawks,"Lawrence, KS",Ohio State Buckeyes,"Columbus, OH",,,1
+938,2014,College,Basketball (M),Connecticut Huskies,"Hartford, CT",Kentucky Wildcats,"Lexington-Fayette, KY",Florida Gators,"Gainesville, FL",Wisconsin Badgers,"Madison, WI",1
+951,2015,College,Basketball (M),Duke Blue Devils,"Greater Raleigh, NC",Wisconsin Badgers,"Madison, WI",Michigan State Spartans,"East Lansing, MI",Kentucky Wildcats,"Lexington-Fayette, KY",1
+964,2016,College,Basketball (M),Villanova Wildcats,"Greater Philadelphia, PA",North Carolina Tar Heels,"Greater Raleigh, NC",Oklahoma Sooners,"Oklahoma City, OK",Syracuse Orange,"Syracuse, NY",1
+977,2017,College,Basketball (M),North Carolina Tar Heels,"Greater Raleigh, NC",Gonzaga Bulldogs,"Spokane, WA",Oregon Ducks,"Eugene, OR",South Carolina Gamecocks,"Columbia, SC",1
+990,2018,College,Basketball (M),Loyola Ramblers,"Chicago, IL",Kansas State Wildcats,"Manhattan, KS",Kentucky Wildcats,"Lexington-Fayette, KY",Nevada Wolf Pack,"Reno, NV",1
+536,1982,College,Basketball (W),Louisiana Tech Bulldogs,"Monroe, LA",Cheyney Wolves,"Cheyney, PA",Tennessee Volunteers,"Knoxville, TN",Maryland Terrapins,"Washington, DC Metro Area",1
+549,1983,College,Basketball (W),South Carolina Gamecocks,"Columbia, SC",Louisiana Tech Bulldogs,"Monroe, LA",Old Dominion Monarchs,"Norfolk, VA",Georgia Bulldogs,"Athens, GA",1
+560,1984,College,Basketball (W),South Carolina Gamecocks,"Columbia, SC",Tennessee Volunteers,"Knoxville, TN",Cheyney University of Pennsylvania,ERROR,Louisiana Tech Bulldogs,"Monroe, LA",2
+573,1985,College,Basketball (W),Old Dominion Monarchs,"Norfolk, VA",Georgia Bulldogs,"Athens, GA",Western Kentucky Hilltoppers,"Bowling Green, KY",Louisiana-Monroe Warhawks,"Monroe, LA",1
+585,1986,College,Basketball (W),Texas Longhorns,"Austin, TX",South Carolina Gamecocks,"Columbia, SC",Western Kentucky Hilltoppers,"Bowling Green, KY",Tennessee Volunteers,"Knoxville, TN",1
+596,1987,College,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Louisiana Tech Bulldogs,"Monroe, LA",Texas Longhorns,"Austin, TX",Long Beach State 49ers,"Greater Los Angeles, CA",1
+608,1988,College,Basketball (W),Louisiana Tech Bulldogs,"Monroe, LA",Auburn Tigers,"Auburn, AL",Long Beach State 49ers,"Greater Los Angeles, CA",Tennessee Volunteers,"Knoxville, TN",1
+620,1989,College,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Auburn Tigers,"Auburn, AL",Louisiana Tech Bulldogs,"Monroe, LA",Maryland Terrapins,"Washington, DC Metro Area",1
+632,1990,College,Basketball (W),Stanford Cardinal,"San Francisco Bay Area, CA",Auburn Tigers,"Auburn, AL",Virginia Cavaliers,"Charlottesville, VA",Louisiana Tech Bulldogs,"Monroe, LA",1
+645,1991,College,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Virginia Cavaliers,"Charlottesville, VA",Connecticut Huskies,"Hartford, CT",Stanford Cardinal,"San Francisco Bay Area, CA",1
+659,1992,College,Basketball (W),Stanford Cardinal,"San Francisco Bay Area, CA",Western Kentucky Hilltoppers,"Bowling Green, KY",Missouri State University,ERROR,Virginia Cavaliers,"Charlottesville, VA",1
+671,1993,College,Basketball (W),Texas Tech Red Raiders,"Lubbock, TX",Ohio State Buckeyes,"Columbus, OH",Iowa Hawkeyes,"Iowa City, IA",Vanderbilt Commodores,"Nashville, TN",1
+682,1994,College,Basketball (W),North Carolina Tar Heels,"Greater Raleigh, NC",Louisiana Tech Bulldogs,"Monroe, LA",Purdue Boilermakers,"West Lafayette, IN",Alabama Crimson Tide,"Tuscaloosa, AL",1
+694,1995,College,Basketball (W),Connecticut Huskies,"Hartford, CT",Tennessee Volunteers,"Knoxville, TN",Stanford Cardinal,"San Francisco Bay Area, CA",Georgia Bulldogs,"Athens, GA",1
+705,1996,College,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Georgia Bulldogs,"Athens, GA",Connecticut Huskies,"Hartford, CT",Stanford Cardinal,"San Francisco Bay Area, CA",1
+718,1997,College,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Old Dominion Monarchs,"Norfolk, VA",Notre Dame Fighting Irish,"Notre Dame, IN",Stanford Cardinal,"San Francisco Bay Area, CA",2
+732,1998,College,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Louisiana Tech Bulldogs,"Monroe, LA",Arkansas Razorbacks,"Northwest Arkansas, AR",North Carolina State Wolfpack,"Greater Raleigh, NC",3
+746,1999,College,Basketball (W),Purdue Boilermakers,"West Lafayette, IN",Duke Blue Devils,"Greater Raleigh, NC",Louisiana Tech Bulldogs,"Monroe, LA",Georgia Bulldogs,"Athens, GA",1
+759,2000,College,Basketball (W),Connecticut Huskies,"Hartford, CT",Tennessee Volunteers,"Knoxville, TN",Rutgers Scarlet Knights,"New Brunswick, NJ",Penn State Nittany Lions,"State College, PA",1
+771,2001,College,Basketball (W),Notre Dame Fighting Irish,"Notre Dame, IN",Purdue Boilermakers,"West Lafayette, IN",Connecticut Huskies,"Hartford, CT",Missouri State Bears,"Springfield, MO",1
+785,2002,College,Basketball (W),Connecticut Huskies,"Hartford, CT",Oklahoma Sooners,"Oklahoma City, OK",Tennessee Volunteers,"Knoxville, TN",Duke Blue Devils,"Greater Raleigh, NC",1
+797,2003,College,Basketball (W),Connecticut Huskies,"Hartford, CT",Tennessee Volunteers,"Knoxville, TN",Texas Longhorns,"Austin, TX",Duke Blue Devils,"Greater Raleigh, NC",2
+812,2004,College,Basketball (W),Connecticut Huskies,"Hartford, CT",Tennessee Volunteers,"Knoxville, TN",Minnesota Golden Gophers,"Twin Cities, MN",LSU Fighting Tigers,"Baton Rouge, LA",3
+825,2005,College,Basketball (W),Baylor Bears,"Waco, TX",Michigan State Spartans,"East Lansing, MI",LSU Fighting Tigers,"Baton Rouge, LA",Tennessee Volunteers,"Knoxville, TN",1
+837,2006,College,Basketball (W),Maryland Terrapins,"Washington, DC Metro Area",Duke Blue Devils,"Greater Raleigh, NC",North Carolina Tar Heels,"Greater Raleigh, NC",LSU Fighting Tigers,"Baton Rouge, LA",1
+850,2007,College,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Rutgers Scarlet Knights,"New Brunswick, NJ",North Carolina Tar Heels,"Greater Raleigh, NC",LSU Fighting Tigers,"Baton Rouge, LA",1
+863,2008,College,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Stanford Cardinal,"San Francisco Bay Area, CA",LSU Fighting Tigers,"Baton Rouge, LA",Connecticut Huskies,"Hartford, CT",2
+875,2009,College,Basketball (W),Connecticut Huskies,"Hartford, CT",Louisville Cardinals,"Louisville, KY",Stanford Cardinal,"San Francisco Bay Area, CA",Oklahoma Sooners,"Oklahoma City, OK",1
+889,2010,College,Basketball (W),Connecticut Huskies,"Hartford, CT",Stanford Cardinal,"San Francisco Bay Area, CA",Baylor Bears,"Waco, TX",Oklahoma Sooners,"Oklahoma City, OK",2
+901,2011,College,Basketball (W),Texas A&M Aggies,"College Station, TX",Notre Dame Fighting Irish,"Notre Dame, IN",Connecticut Huskies,"Hartford, CT",Stanford Cardinal,"San Francisco Bay Area, CA",1
+915,2012,College,Basketball (W),Baylor Bears,"Waco, TX",Notre Dame Fighting Irish,"Notre Dame, IN",Stanford Cardinal,"San Francisco Bay Area, CA",Connecticut Huskies,"Hartford, CT",1
+927,2013,College,Basketball (W),Connecticut Huskies,"Hartford, CT",Louisville Cardinals,"Louisville, KY",California Golden Bears,"San Francisco Bay Area, CA",Notre Dame Fighting Irish,"Notre Dame, IN",1
+940,2014,College,Basketball (W),Connecticut Huskies,"Hartford, CT",Notre Dame Fighting Irish,"Notre Dame, IN",Stanford Cardinal,"San Francisco Bay Area, CA",Maryland Terrapins,"Washington, DC Metro Area",2
+953,2015,College,Basketball (W),Connecticut Huskies,"Hartford, CT",Notre Dame Fighting Irish,"Notre Dame, IN",South Carolina Gamecocks,"Columbia, SC",Maryland Terrapins,"Washington, DC Metro Area",3
+965,2016,College,Basketball (W),Connecticut Huskies,"Hartford, CT",Syracuse Orange,"Syracuse, NY",Oregon State Beavers,"Corvallis, OR",Washington Huskies,"Seattle,WA",4
+978,2017,College,Basketball (W),South Carolina Gamecocks,"Columbia, SC",Mississippi State Bulldogs,"Starkville, MS",Connecticut Huskies,"Hartford, CT",Stanford Cardinal,"San Francisco Bay Area, CA",1
+991,2018,College,Basketball (W),Notre Dame Fighting Irish,"Notre Dame, IN",Mississippi State Bulldogs,"Starkville, MS",Louisville Cardinals,"Louisville, KY",Connecticut Huskies,"Hartford, CT",1
+51,1909,Pro,CFL,University of Toronto Varsity Blues,"Toronto, ON",Toronto Parkdale Canoe Club,"Toronto, ON",,,,,1
+54,1910,Pro,CFL,University of Toronto Varsity Blues,"Toronto, ON",Hamilton Tigers,"Hamilton, ON",,,,,2
+58,1911,Pro,CFL,University of Toronto Varsity Blues,"Toronto, ON",Toronto Argonauts,"Toronto, ON",,,,,3
+62,1912,Pro,CFL,Hamilton Alerts,"Hamilton, ON",Toronto Argonauts,"Toronto, ON",,,,,1
+66,1913,Pro,CFL,Hamilton Tigers,"Hamilton, ON",Toronto Parkdale Canoe Club,"Toronto, ON",,,,,1
+69,1914,Pro,CFL,Toronto Argonauts,"Toronto, ON",University of Toronto Varsity Blues,"Toronto, ON",,"Toronto, ON",,"Toronto, ON",1
+72,1915,Pro,CFL,Hamilton Tigers,"Hamilton, ON",Toronto Rowing Association,"Toronto, ON",,"Toronto, ON",,"Toronto, ON",1
+89,1920,Pro,CFL,University of Toronto Varsity Blues,"Toronto, ON",Toronto Argonauts,"Toronto, ON",,,,,1
+93,1921,Pro,CFL,Toronto Argonauts,"Toronto, ON",Edmonton Eskimos,"Edmonton, AB",,,,,1
+99,1922,Pro,CFL,Queen's Gaels,"Kingston, ON",Edmonton Elks,"Edmonton, AB",,,,,1
+106,1923,Pro,CFL,Queen's Gaels,"Kingston, ON",Regina Rugby Club,"Regina, SK",,,,,2
+111,1924,Pro,CFL,Queen's Gaels,"Kingston, ON",Toronto Balmy Beach,"Toronto, ON",,,,,3
+117,1925,Pro,CFL,Ottawa Senators,"Ottawa, ON",Winnipeg Tammany Tigers,"Winnipeg, MB",,,,,1
+121,1926,Pro,CFL,Ottawa Senators,"Ottawa, ON",Toronto Varsity Blues,"Toronto, ON",,"Toronto, ON",,"Toronto, ON",2
+127,1927,Pro,CFL,Toronto Balmy Beach,"Toronto, ON",Hamilton Tigers,"Hamilton, ON",,,,,1
+133,1928,Pro,CFL,Hamilton Tigers,"Hamilton, ON",Regina Roughriders,"Regina, SK",,,,,1
+138,1929,Pro,CFL,Hamilton Tigers,"Hamilton, ON",Regina Roughriders,"Regina, SK",,,,,2
+144,1930,Pro,CFL,Toronto Balmy Beach,"Toronto, ON",Regina Roughriders,"Regina, SK",,,,,1
+150,1931,Pro,CFL,Montreal AAA Winged Wheelers,"Montreal, QC",Regina Roughriders,"Regina, SK",,,,,1
+155,1932,Pro,CFL,Hamilton Tigers,"Hamilton, ON",Regina Roughriders,"Regina, SK",,,,,1
+160,1933,Pro,CFL,Toronto Argonauts,"Toronto, ON",Sarnia Imperials,"Sarnia, ON",,,,,1
+164,1934,Pro,CFL,Sarnia Imperials,"Sarnia, ON",Regina Roughriders,"Regina, SK",,,,,1
+169,1935,Pro,CFL,Winnipeg ‘Pegs,"Winnipeg, MB",Hamilton Tigers,"Hamilton, ON",,,,,1
+175,1936,Pro,CFL,Sarnia Imperials,"Sarnia, ON",Ottawa Rough Riders,"Ottawa, ON",,,,,1
+179,1937,Pro,CFL,Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",,,,,1
+184,1938,Pro,CFL,Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",,,,,2
+190,1939,Pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Ottawa Rough Riders,"Ottawa, ON",,,,,1
+197,1940,Pro,CFL,Ottawa Rough Riders,"Ottawa, ON",Toronto Balmy Beach,"Toronto, ON",,,,,1
+202,1941,Pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Ottawa Rough Riders,"Ottawa, ON",,,,,1
+208,1942,Pro,CFL,Toronto RCAF Hurricanes,"Toronto, ON",Winnipeg RCAF Bombers,"Winnipeg, MB",,,,,1
+214,1943,Pro,CFL,Hamilton Flying Wildcats,"Hamilton, ON",Winnipeg RCAF Bombers,"Winnipeg, MB",,,,,1
+220,1944,Pro,CFL,St. Hyacinthe-Donnacona Navy,"Montreal, QC",Hamilton Flying Wildcats,"Hamilton, ON",,,,,1
+226,1945,Pro,CFL,Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",,,,,1
+232,1946,Pro,CFL,Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",,,,,2
+240,1947,Pro,CFL,Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",,,,,3
+248,1948,Pro,CFL,Calgary Stampeders,"Calgary, AB",Ottawa Rough Riders,"Ottawa, ON",,,,,1
+256,1949,Pro,CFL,Montreal Alouettes,"Montreal, QC",Calgary Stampeders,"Calgary, AB",,,,,1
+264,1950,Pro,CFL,Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",,,,,1
+272,1951,Pro,CFL,Ottawa Rough Riders,"Ottawa, ON",Saskatchewan Roughriders,"Regina, SK",,,,,1
+280,1952,Pro,CFL,Toronto Argonauts,"Toronto, ON",Edmonton Eskimos,"Edmonton, AB",,,,,1
+288,1953,Pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",Winnipeg Blue Bombers,"Winnipeg, MB",,,,,1
+296,1954,Pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",,,,,1
+305,1955,Pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",,,,,2
+313,1956,Pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",,,,,3
+321,1957,Pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",Winnipeg Blue Bombers,"Winnipeg, MB",Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",1
+330,1958,Pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Hamilton Tiger-Cats,"Hamilton, ON",Edmonton Eskimos,"Edmonton, AB",Ottawa Rough Riders,"Ottawa, ON",1
+339,1959,Pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Hamilton Tiger-Cats,"Hamilton, ON",Edmonton Eskimos,"Edmonton, AB",Ottawa Rough Riders,"Ottawa, ON",2
+347,1960,Pro,CFL,Ottawa Rough Riders,"Ottawa, ON",Edmonton Eskimos,"Edmonton, AB",Winnipeg Blue Bombers,"Winnipeg, MB",Toronto Argonauts,"Toronto, ON",1
+357,1961,Pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Hamilton Tiger-Cats,"Hamilton, ON",Toronto Argonauts,"Toronto, ON",Calgary Stampeders,"Calgary, AB",1
+366,1962,Pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Hamilton Tiger-Cats,"Hamilton, ON",Calgary Stampeders,"Calgary, AB",Montreal Alouettes,"Montreal, QC",2
+373,1963,Pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",BC Lions,"Vancouver, BC",Saskatchewan Roughriders,"Regina, SK",Ottawa Rough Riders,"Ottawa, ON",1
+381,1964,Pro,CFL,BC Lions,"Vancouver, BC",Hamilton Tiger-Cats,"Hamilton, ON",Calgary Stampeders,"Calgary, AB",Ottawa Rough Riders,"Ottawa, ON",1
+391,1965,Pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",Winnipeg Blue Bombers,"Winnipeg, MB",Calgary Stampeders,"Calgary, AB",Ottawa Rough Riders,"Ottawa, ON",1
+400,1966,Pro,CFL,Saskatchewan Roughriders,"Regina, SK",Ottawa Rough Riders,"Ottawa, ON",Winnipeg Blue Bombers,"Winnipeg, MB",Hamilton Tiger-Cats,"Hamilton, ON",1
+410,1967,Pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",Saskatchewan Roughriders,"Regina, SK",Calgary Stampeders,"Calgary, AB",Ottawa Rough Riders,"Ottawa, ON",1
+418,1968,Pro,CFL,Ottawa Rough Riders,"Ottawa, ON",Calgary Stampeders,"Calgary, AB",Saskatchewan Roughriders,"Regina, SK",Toronto Argonauts,"Toronto, ON",1
+426,1969,Pro,CFL,Ottawa Rough Riders,"Ottawa, ON",Saskatchewan Roughriders,"Regina, SK",Calgary Stampeders,"Calgary, AB",Toronto Argonauts,"Toronto, ON",2
+434,1970,Pro,CFL,Montreal Alouettes,"Montreal, QC",Calgary Stampeders,"Calgary, AB",Saskatchewan Roughriders,"Regina, SK",Hamilton Tiger-Cats,"Hamilton, ON",1
+444,1971,Pro,CFL,Calgary Stampeders,"Calgary, AB",Toronto Argonauts,"Toronto, ON",Saskatchewan Roughriders,"Regina, SK",Hamilton Tiger-Cats,"Hamilton, ON",1
+452,1972,Pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",Saskatchewan Roughriders,"Regina, SK",Winnipeg Blue Bombers,"Winnipeg, MB",Ottawa Rough Riders,"Ottawa, ON",1
+460,1973,Pro,CFL,Ottawa Rough Riders,"Ottawa, ON",Edmonton Eskimos,"Edmonton, AB",Saskatchewan Roughriders,"Regina, SK",Montreal Alouettes,"Montreal, QC",1
+469,1974,Pro,CFL,Montreal Alouettes,"Montreal, QC",Edmonton Eskimos,"Edmonton, AB",Saskatchewan Roughriders,"Regina, SK",Ottawa Rough Riders,"Ottawa, ON",1
+478,1975,Pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",Saskatchewan Roughriders,"Regina, SK",Ottawa Rough Riders,"Ottawa, ON",1
+486,1976,Pro,CFL,Ottawa Rough Riders,"Ottawa, ON",Saskatchewan Roughriders,"Regina, SK",Edmonton Eskimos,"Edmonton, AB",Hamilton Tiger-Cats,"Hamilton, ON",1
+494,1977,Pro,CFL,Montreal Alouettes,"Montreal, QC",Edmonton Eskimos,"Edmonton, AB",BC Lions,"Vancouver, BC",Ottawa Rough Riders,"Ottawa, ON",1
+502,1978,Pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",Calgary Stampeders,"Calgary, AB",Ottawa Rough Riders,"Ottawa, ON",1
+512,1979,Pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",Calgary Stampeders,"Calgary, AB",Ottawa Rough Riders,"Ottawa, ON",2
+521,1980,Pro,CFL,Edmonton Eskimos,"Edmonton, AB",Hamilton Tiger-Cats,"Hamilton, ON",Winnipeg Blue Bombers,"Winnipeg, MB",Montreal Alouettes,"Montreal, QC",3
+530,1981,Pro,CFL,Edmonton Eskimos,"Edmonton, AB",Ottawa Rough Riders,"Ottawa, ON",BC Lions,"Vancouver, BC",Hamilton Tiger-Cats,"Hamilton, ON",4
+541,1982,Pro,CFL,Edmonton Eskimos,"Edmonton, AB",Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",Ottawa Rough Riders,"Ottawa, ON",5
+553,1983,Pro,CFL,Toronto Argonauts,"Toronto, ON",BC Lions,"Vancouver, BC",Winnipeg Blue Bombers,"Winnipeg, MB",Hamilton Tiger-Cats,"Hamilton, ON",1
+565,1984,Pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Hamilton Tiger-Cats,"Hamilton, ON",Toronto Argonauts,"Toronto, ON",BC Lions,"Vancouver, BC",1
+577,1985,Pro,CFL,BC Lions,"Vancouver, BC",Hamilton Tiger-Cats,"Hamilton, ON",Winnipeg Blue Bombers,"Winnipeg, MB",Montreal Concordes,"Montreal, QC",1
+589,1986,Pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",Edmonton Eskimos,"Edmonton, AB",BC Lions,"Vancouver, BC",Toronto Argonauts,"Toronto, ON",1
+601,1987,Pro,CFL,Edmonton Eskimos,"Edmonton, AB",Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",BC Lions,"Vancouver, BC",1
+613,1988,Pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",BC Lions,"Vancouver, BC",Toronto Argonauts,"Toronto, ON",Edmonton Eskimos,"Edmonton, AB",1
+625,1989,Pro,CFL,Saskatchewan Roughriders,"Regina, SK",Hamilton Tiger-Cats,"Hamilton, ON",Winnipeg Blue Bombers,"Winnipeg, MB",Edmonton Eskimos,"Edmonton, AB",1
+637,1990,Pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Edmonton Eskimos,"Edmonton, AB",Calgary Stampeders,"Calgary, AB",Toronto Argonauts,"Toronto, ON",1
+650,1991,Pro,CFL,Toronto Argonauts,"Toronto, ON",Calgary Stampeders,"Calgary, AB",Winnipeg Blue Bombers,"Winnipeg, MB",Edmonton Eskimos,"Edmonton, AB",1
+663,1992,Pro,CFL,Calgary Stampeders,"Calgary, AB",Winnipeg Blue Bombers,"Winnipeg, MB",Edmonton Eskimos,"Edmonton, AB",Hamilton Tiger-Cats,"Hamilton, ON",1
+675,1993,Pro,CFL,Edmonton Eskimos,"Edmonton, AB",Winnipeg Blue Bombers,"Winnipeg, MB",Calgary Stampeders,"Calgary, AB",Hamilton Tiger-Cats,"Hamilton, ON",1
+686,1994,Pro,CFL,BC Lions,"Vancouver, BC",Baltimore Stallions,"Baltimore, MD",Winnipeg Blue Bombers,"Winnipeg, MB",Calgary Stampeders,"Calgary, AB",1
+698,1995,Pro,CFL,Baltimore Stallions,"Baltimore, MD",Calgary Stampeders,"Calgary, AB",Edmonton Eskimos,"Edmonton, AB",San Antonio Texans,"San Antonio, TX",1
+711,1996,Pro,CFL,Toronto Argonauts,"Toronto, ON",Edmonton Eskimos,"Edmonton, AB",Calgary Stampeders,"Calgary, AB",Montreal Alouettes,"Montreal, QC",1
+724,1997,Pro,CFL,Toronto Argonauts,"Toronto, ON",Saskatchewan Roughriders,"Regina, SK",Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",2
+738,1998,Pro,CFL,Calgary Stampeders,"Calgary, AB",Hamilton Tiger-Cats,"Hamilton, ON",Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",1
+750,1999,Pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",Calgary Stampeders,"Calgary, AB",BC Lions,"Vancouver, BC",Montreal Alouettes,"Montreal, QC",1
+764,2000,Pro,CFL,BC Lions,"Vancouver, BC",Montreal Alouettes,"Montreal, QC",Winnipeg Blue Bombers,"Winnipeg, MB",Calgary Stampeders,"Calgary, AB",1
+777,2001,Pro,CFL,Calgary Stampeders,"Calgary, AB",Winnipeg Blue Bombers,"Winnipeg, MB",Edmonton Eskimos,"Edmonton, AB",Hamilton Tiger-Cats,"Hamilton, ON",1
+790,2002,Pro,CFL,Montreal Alouettes,"Montreal, QC",Edmonton Eskimos,"Edmonton, AB",Winnipeg Blue Bombers,"Winnipeg, MB",Toronto Argonauts,"Toronto, ON",1
+802,2003,Pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",Saskatchewan Roughriders,"Regina, SK",Toronto Argonauts,"Toronto, ON",1
+816,2004,Pro,CFL,Toronto Argonauts,"Toronto, ON",BC Lions,"Vancouver, BC",Saskatchewan Roughriders,"Regina, SK",Montreal Alouettes,"Montreal, QC",1
+828,2005,Pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",Toronto Argonauts,"Toronto, ON",BC Lions,"Vancouver, BC",1
+842,2006,Pro,CFL,BC Lions,"Vancouver, BC",Montreal Alouettes,"Montreal, QC",Saskatchewan Roughriders,"Regina, SK",Toronto Argonauts,"Toronto, ON",1
+854,2007,Pro,CFL,Saskatchewan Roughriders,"Regina, SK",Winnipeg Blue Bombers,"Winnipeg, MB",Toronto Argonauts,"Toronto, ON",BC Lions,"Vancouver, BC",1
+867,2008,Pro,CFL,Calgary Stampeders,"Calgary, AB",Montreal Alouettes,"Montreal, QC",Edmonton Eskimos,"Edmonton, AB",BC Lions,"Vancouver, BC",1
+881,2009,Pro,CFL,Montreal Alouettes,"Montreal, QC",Saskatchewan Roughriders,"Regina, SK",BC Lions,"Vancouver, BC",Calgary Stampeders,"Calgary, AB",1
+894,2010,Pro,CFL,Montreal Alouettes,"Montreal, QC",Saskatchewan Roughriders,"Regina, SK",Toronto Argonauts,"Toronto, ON",Calgary Stampeders,"Calgary, AB",2
+907,2011,Pro,CFL,BC Lions,"Vancouver, BC",Winnipeg Blue Bombers,"Winnipeg, MB",Edmonton Eskimos,"Edmonton, AB",Hamilton Tiger-Cats,"Hamilton, ON",1
+919,2012,Pro,CFL,Toronto Argonauts,"Toronto, ON",Calgary Stampeders,"Calgary, AB",BC Lions,"Vancouver, BC",Montreal Alouettes,"Montreal, QC",1
+931,2013,Pro,CFL,Saskatchewan Roughriders,"Regina, SK",St. Louis Cardinals,"St. Louis, MO",Detroit Tigers,"Metro Detroit, MI",Los Angeles Dodgers,"Greater Los Angeles, CA",1
+944,2014,Pro,CFL,Calgary Stampeders,"Calgary, AB",Hamilton Tiger-Cats,"Hamilton, ON",Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",1
+957,2015,Pro,CFL,Edmonton Eskimos,"Edmonton, AB",Ottawa Redblacks,"Ottawa, ON",Calgary Stampeders,"Calgary, AB",Hamilton Tiger-Cats,"Hamilton, ON",1
+970,2016,Pro,CFL,Ottawa Redblacks,"Ottawa, ON",Calgary Stampeders,"Calgary, AB",BC Lions,"Vancouver, BC",Edmonton Eskimos,"Edmonton, AB",1
+983,2017,Pro,CFL,Toronto Argonauts,"Toronto, ON",Calgary Stampeders,"Calgary, AB",Edmonton Eskimos,"Edmonton, AB",Saskatchewan Roughriders,"Regina, SK",1
+0,1870,College,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,,1
+1,1870,College,Football (M),Rutgers Scarlet Knights,"New Brunswick, NJ",,,,,,,1
+2,1871,College,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,,1
+3,1873,College,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,,2
+4,1874,College,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,,3
+5,1875,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,1
+6,1876,College,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,,1
+7,1877,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,1
+8,1878,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,2
+9,1879,College,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,,1
+10,1880,College,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,,2
+11,1881,College,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,,3
+12,1881,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,1
+13,1882,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,2
+14,1883,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,3
+15,1884,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,4
+16,1885,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,5
+17,1886,College,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,,1
+18,1887,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,1
+19,1888,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,2
+20,1889,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,3
+21,1890,College,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,,1
+22,1891,College,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,,1
+23,1892,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,1
+24,1893,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,2
+25,1894,College,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,,1
+26,1895,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,1
+27,1896,College,Football (M),Pennsylvania Quakers,"Greater Philadelphia, PA",,,,,,,1
+28,1897,College,Football (M),Lafayette Leopards,"Lehigh Valley, NJ-PA",,,,,,,1
+29,1897,College,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,,1
+30,1898,College,Football (M),Pennsylvania Quakers,"Greater Philadelphia, PA",,,,,,,1
+31,1899,College,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,,1
+32,1900,College,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,,2
+33,1901,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,1
+34,1902,College,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,,1
+35,1903,College,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,,2
+37,1904,College,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,,3
+38,1904,College,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,,1
+39,1905,College,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,,1
+40,1905,College,Football (M),Pennsylvania Quakers,"Greater Philadelphia, PA",,,,,,,1
+42,1906,College,Football (M),Chicago Maroons,"Chicago, IL",,,,,,,1
+44,1907,College,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,,1
+46,1908,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,1
+48,1909,College,Football (M),LSU Fighting Tigers,"Baton Rouge, LA",,,,,,,1
+49,1909,College,Football (M),Pennsylvania Quakers,"Greater Philadelphia, PA",,,,,,,1
+52,1910,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,1
+55,1911,College,Football (M),Pittsburgh Panthers,"Pittsburgh, PA",,,,,,,1
+56,1911,College,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,,1
+59,1912,College,Football (M),Penn State Nittany Lions,"State College, PA",,,,,,,1
+60,1912,College,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,,1
+63,1913,College,Football (M),Penn State Nittany Lions,"State College, PA",,,,,,,1
+64,1913,College,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,,1
+67,1914,College,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,,2
+70,1915,College,Football (M),Army Black Knights,"West Point, NY",,,,,,,1
+73,1916,College,Football (M),Cornell Big Red,"Ithaca, NY",,,,,,,1
+75,1917,College,Football (M),Pittsburgh Panthers,"Pittsburgh, PA",,,,,,,1
+77,1918,College,Football (M),Georgia Tech Yellow Jackets,"Atlanta, GA",,,,,,,1
+80,1919,College,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,,1
+81,1919,College,Football (M),Pittsburgh Panthers,"Pittsburgh, PA",,,,,,,1
+84,1920,College,Football (M),Texas A&M Aggies,"College Station, TX",,,,,,,1
+85,1920,College,Football (M),Illinois Fighting Illini,"Champaign-Urbana, IL",,,,,,,1
+86,1920,College,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,,1
+87,1920,College,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,,1
+90,1921,College,Football (M),California Golden Bears,"San Francisco Bay Area, CA",,,,,,,1
+94,1922,College,Football (M),Cornell Big Red,"Ithaca, NY",,,,,,,1
+95,1922,College,Football (M),California Golden Bears,"San Francisco Bay Area, CA",,,,,,,1
+100,1923,College,Football (M),Cornell Big Red,"Ithaca, NY",,,,,,,1
+101,1923,College,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,,1
+102,1923,College,Football (M),California Golden Bears,"San Francisco Bay Area, CA",,,,,,,1
+107,1924,College,Football (M),Illinois Fighting Illini,"Champaign-Urbana, IL",,,,,,,1
+108,1924,College,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,,1
+113,1925,College,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,,1
+118,1926,College,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,,1
+123,1927,College,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,,2
+124,1927,College,Football (M),Stanford Cardinal,"San Francisco Bay Area, CA",,,,,,,1
+129,1928,College,Football (M),Illinois Fighting Illini,"Champaign-Urbana, IL",,,,,,,1
+130,1928,College,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,,1
+135,1929,College,Football (M),Georgia Tech Yellow Jackets,"Atlanta, GA",,,,,,,1
+140,1930,College,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,,1
+145,1931,College,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,,1
+146,1931,College,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,,1
+151,1932,College,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,,1
+156,1933,College,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,,2
+161,1934,College,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,,1
+166,1935,College,Football (M),Minnesota Golden Gophers,"Twin Cities, MN",,,,,,,1
+171,1936,College,Football (M),Minnesota Golden Gophers,"Twin Cities, MN",,,,,,,2
+176,1937,College,Football (M),Minnesota Golden Gophers,"Twin Cities, MN",,,,,,,3
+181,1938,College,Football (M),Pittsburgh Panthers,"Pittsburgh, PA",,,,,,,1
+186,1939,College,Football (M),Texas Christian Horned Frogs,"Dallas-Fort Worth, TX",,,,,,,1
+192,1940,College,Football (M),Texas A&M Aggies,"College Station, TX",,,,,,,1
+198,1941,College,Football (M),Minnesota Golden Gophers,"Twin Cities, MN",,,,,,,1
+204,1942,College,Football (M),Minnesota Golden Gophers,"Twin Cities, MN",,,,,,,2
+210,1943,College,Football (M),Ohio State Buckeyes,"Columbus, OH",,,,,,,1
+216,1944,College,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,,1
+222,1945,College,Football (M),Army Black Knights,"West Point, NY",,,,,,,1
+228,1946,College,Football (M),Army Black Knights,"West Point, NY",,,,,,,2
+234,1947,College,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,,1
+242,1948,College,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,,2
+250,1949,College,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,,1
+258,1950,College,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,,1
+266,1951,College,Football (M),Oklahoma Sooners,"Oklahoma City, OK",,,,,,,1
+274,1952,College,Football (M),Tennessee Volunteers,"Knoxville, TN",,,,,,,1
+282,1953,College,Football (M),Michigan State Spartans,"East Lansing, MI",,,,,,,1
+290,1954,College,Football (M),Maryland Terrapins,"Washington, DC Metro Area",,,,,,,1
+298,1955,College,Football (M),Ohio State Buckeyes,"Columbus, OH",,,,,,,1
+299,1955,College,Football (M),UCLA Bruins,"Greater Los Angeles, CA",,,,,,,1
+307,1956,College,Football (M),Oklahoma Sooners,"Oklahoma City, OK",,,,,,,1
+315,1957,College,Football (M),Oklahoma Sooners,"Oklahoma City, OK",,,,,,,2
+323,1958,College,Football (M),Auburn Tigers,"Auburn, AL",,,,,,,1
+324,1958,College,Football (M),Ohio State Buckeyes,"Columbus, OH",,,,,,,1
+332,1959,College,Football (M),Iowa Hawkeyes,"Iowa City, IA",,,,,,,1
+333,1959,College,Football (M),LSU Fighting Tigers,"Baton Rouge, LA",,,,,,,1
+341,1960,College,Football (M),Syracuse Orange,"Syracuse, NY",,,,,,,1
+349,1961,College,Football (M),Minnesota Golden Gophers,"Twin Cities, MN",,,,,,,1
+350,1961,College,Football (M),Ole Miss Rebels,"Oxford, MS",,,,,,,1
+358,1962,College,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,,1
+359,1962,College,Football (M),Ohio State Buckeyes,"Columbus, OH",,,,,,,1
+367,1963,College,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,,1
+375,1964,College,Football (M),Texas Longhorns,"Austin, TX",,,,,,,1
+383,1965,College,Football (M),Arkansas Razorbacks,"Northwest Arkansas, AR",,,,,,,1
+384,1965,College,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,,1
+385,1965,College,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,,1
+393,1966,College,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,,1
+394,1966,College,Football (M),Michigan State Spartans,"East Lansing, MI",,,,,,,1
+402,1967,College,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,,1
+403,1967,College,Football (M),Michigan State Spartans,"East Lansing, MI",,,,,,,1
+411,1968,College,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,,1
+419,1969,College,Football (M),Ohio State Buckeyes,"Columbus, OH",,,,,,,1
+427,1970,College,Football (M),Texas Longhorns,"Austin, TX",,,,,,,1
+435,1971,College,Football (M),Texas Longhorns,"Austin, TX",,,,,,,2
+436,1971,College,Football (M),Nebraska Cornhuskers,"Lincoln, NE",,,,,,,1
+437,1971,College,Football (M),Ohio State Buckeyes,"Columbus, OH",,,,,,,1
+445,1972,College,Football (M),Nebraska Cornhuskers,"Lincoln, NE",,,,,,,1
+453,1973,College,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,,1
+461,1974,College,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,,1
+462,1974,College,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,,1
+470,1975,College,Football (M),Oklahoma Sooners,"Oklahoma City, OK",,,,,,,1
+471,1975,College,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,,1
+479,1976,College,Football (M),Oklahoma Sooners,"Oklahoma City, OK",,,,,,,1
+487,1977,College,Football (M),Pittsburgh Panthers,"Pittsburgh, PA",,,,,,,1
+495,1978,College,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,,1
+503,1979,College,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,,1
+504,1979,College,Football (M),Florida A&M Rattlers,"Tallahassee, FL",Massachusetts Minutemen,"Springfield, MA",,,,,1
+505,1979,College,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,,1
+513,1980,College,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,,1
+514,1980,College,Football (M),Eastern Kentucky Colonels,"Richmond, KY",Lehigh Mountain Hawks,"Lehigh Valley, NJ-PA",,,,,1
+522,1981,College,Football (M),Georgia Bulldogs,"Athens, GA",,,,,,,1
+523,1981,College,Football (M),Boise State Broncos,"Boise City, ID",Eastern Kentucky Colonels,"Richmond, KY",,,,,1
+532,1982,College,Football (M),Clemson Tigers,"Greenville, SC",,,,,,,1
+533,1982,College,Football (M),Idaho State Bengals,"Pocatello, ID",Eastern Kentucky Colonels,"Richmond, KY",,,,,1
+544,1983,College,Football (M),Eastern Kentucky Colonels,"Richmond, KY",Delaware Fightin' Blue Hens,"Newark, DE",,,,,1
+545,1983,College,Football (M),Penn State Nittany Lions,"State College, PA",,,,,,,1
+556,1984,College,Football (M),Southern Illinois Salukis,"Carbondale, IL",Western Carolina Catamounts,"Cullowhee, NC",,,,,1
+557,1984,College,Football (M),Miami Hurricanes,"Greater Miami Area, FL",,,,,,,1
+568,1985,College,Football (M),Brigham Young Cougars,"Provo, UT",,,,,,,1
+569,1985,College,Football (M),Montana State Bobcats,"Bozeman, MT",Louisiana Tech Bulldogs,"Monroe, LA",,,,,1
+580,1986,College,Football (M),Oklahoma Sooners,"Oklahoma City, OK",,,,,,,1
+581,1986,College,Football (M),Georgia Southern Eagles,"Statesboro, GA",Furman Paladins,"Greenville, SC",,,,,1
+592,1987,College,Football (M),Georgia Southern Eagles,"Statesboro, GA",Arkansas State Red Wolves,ERROR,,,,,2
+593,1987,College,Football (M),Penn State Nittany Lions,"State College, PA",,,,,,,1
+604,1988,College,Football (M),Louisiana-Monroe Warhawks,"Monroe, LA",Marshall Thundering Herd,"Huntington, WV",,,,,1
+605,1988,College,Football (M),Miami Hurricanes,"Greater Miami Area, FL",,,,,,,1
+616,1989,College,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,,1
+617,1989,College,Football (M),Furman Paladins,"Greenville, SC",Georgia Southern Eagles,"Statesboro, GA",,,,,1
+628,1990,College,Football (M),Georgia Southern Eagles,"Statesboro, GA",Stephen F. Austin Lumberjacks,"Nacogdoches, TX",,,,,1
+629,1990,College,Football (M),Miami Hurricanes,"Greater Miami Area, FL",,,,,,,1
+640,1991,College,Football (M),Georgia Tech Yellow Jackets,"Atlanta, GA",,,,,,,1
+641,1991,College,Football (M),Georgia Southern Eagles,"Statesboro, GA",Nevada Wolf Pack,"Reno, NV",,,,,1
+642,1991,College,Football (M),Colorado Buffaloes,"Boulder, CO",,,,,,,1
+653,1992,College,Football (M),Youngstown State Penguins,"Youngstown, OH",Marshall Thundering Herd,"Huntington, WV",,,,,1
+654,1992,College,Football (M),Miami Hurricanes,"Greater Miami Area, FL",,,,,,,1
+655,1992,College,Football (M),Washington Huskies,"Seattle,WA",,,,,,,1
+666,1993,College,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,,1
+667,1993,College,Football (M),Marshall Thundering Herd,"Huntington, WV",Youngstown State Penguins,"Youngstown, OH",,,,,1
+678,1994,College,Football (M),Florida State Seminoles,"Tallahassee, FL",,,,,,,1
+679,1994,College,Football (M),Youngstown State Penguins,"Youngstown, OH",Marshall Thundering Herd,"Huntington, WV",,,,,1
+689,1995,College,Football (M),Nebraska Cornhuskers,"Lincoln, NE",,,,,,,1
+690,1995,College,Football (M),Youngstown State Penguins,"Youngstown, OH",Boise State Broncos,"Boise City, ID",,,,,1
+701,1996,College,Football (M),Nebraska Cornhuskers,"Lincoln, NE",,,,,,,1
+702,1996,College,Football (M),Montana Grizzlies,"Missoula, MT",Marshall Thundering Herd,"Huntington, WV",,,,,1
+714,1997,College,Football (M),Marshall Thundering Herd,"Huntington, WV",Montana Grizzlies,"Missoula, MT",,,,,1
+715,1997,College,Football (M),Florida Gators,"Gainesville, FL",,,,,,,1
+727,1998,College,Football (M),Nebraska Cornhuskers,"Lincoln, NE",,,,,,,1
+728,1998,College,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,,1
+729,1998,College,Football (M),Youngstown State Penguins,"Youngstown, OH",McNeese State Cowboys,"Lake Charles, LA",,,,,1
+741,1999,College,Football (M),Tennessee Volunteers,"Knoxville, TN",,,,,,,1
+742,1999,College,Football (M),Massachusetts Minutemen,"Springfield, MA",Georgia Southern Eagles,"Statesboro, GA",,,,,1
+754,2000,College,Football (M),Florida State Seminoles,"Tallahassee, FL",,,,,,,1
+755,2000,College,Football (M),Georgia Southern Eagles,"Statesboro, GA",Youngstown State Penguins,"Youngstown, OH",,,,,1
+767,2001,College,Football (M),Oklahoma Sooners,"Oklahoma City, OK",,,,,,,1
+768,2001,College,Football (M),Georgia Southern Eagles,"Statesboro, GA",Montana Grizzlies,"Missoula, MT",,,,,1
+780,2002,College,Football (M),Miami Hurricanes,"Greater Miami Area, FL",,,,,,,1
+781,2002,College,Football (M),Montana Grizzlies,"Missoula, MT",Furman Paladins,"Greenville, SC",,,,,1
+793,2003,College,Football (M),Western Kentucky Hilltoppers,"Bowling Green, KY",McNeese State Cowboys,"Lake Charles, LA",,,,,1
+794,2003,College,Football (M),Ohio State Buckeyes,"Columbus, OH",,,,,,,1
+806,2004,College,Football (M),LSU Fighting Tigers,"Baton Rouge, LA",,,,,,,1
+807,2004,College,Football (M),Delaware Fightin' Blue Hens,"Newark, DE",Colgate Raiders,"Hamilton, NY",,,,,1
+808,2004,College,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,,1
+820,2005,College,Football (M),James Madison Dukes,"Harrisonburg, VA",Montana Grizzlies,"Missoula, MT",,,,,1
+821,2005,College,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,,1
+832,2006,College,Football (M),Texas Longhorns,"Austin, TX",,,,,,,1
+833,2006,College,Football (M),Appalachian State Mountaineers,"Boone, NC",Northern Iowa Panthers,"Cedar Falls, IA",,,,,1
+845,2007,College,Football (M),Florida Gators,"Gainesville, FL",,,,,,,1
+846,2007,College,Football (M),Appalachian State Mountaineers,"Boone, NC",Massachusetts Minutemen,"Springfield, MA",,,,,1
+858,2008,College,Football (M),LSU Fighting Tigers,"Baton Rouge, LA",,,,,,,1
+859,2008,College,Football (M),Appalachian State Mountaineers,"Boone, NC",Delaware Fightin' Blue Hens,"Newark, DE",,,,,1
+871,2009,College,Football (M),Florida Gators,"Gainesville, FL",,,,,,,1
+872,2009,College,Football (M),Richmond Spiders,"Richmond, VA",Montana Grizzlies,"Missoula, MT",,,,,1
+884,2010,College,Football (M),Villanova Wildcats,"Greater Philadelphia, PA",Montana Grizzlies,"Missoula, MT",,,,,1
+885,2010,College,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,,1
+897,2011,College,Football (M),Eastern Washington Eagles,"Spokane, WA",Delaware Fightin' Blue Hens,"Newark, DE",,,,,1
+898,2011,College,Football (M),Auburn Tigers,"Auburn, AL",,,,,,,1
+910,2012,College,Football (M),North Dakota State Bison,"Fargo, ND",Sam Houston State Bearkats,"Huntsville, TX",,,,,1
+911,2012,College,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,,1
+923,2013,College,Football (M),North Dakota State Bison,"Fargo, ND",Sam Houston State Bearkats,"Huntsville, TX",,,,,1
+924,2013,College,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,,1
+935,2014,College,Football (M),North Dakota State Bison,"Fargo, ND",Florida State Seminoles,"Tallahassee, FL",Virginia Cavaliers,"Charlottesville, VA",Virginia Tech Hokies,"Blacksburg, VA",1
+936,2014,College,Football (M),Florida State Seminoles,"Tallahassee, FL",Towson Tigers,"Baltimore, MD",,,,,1
+948,2015,College,Football (M),North Dakota State Bison,"Fargo, ND",Illinois State Redbirds,"Normal, IL",,,,,1
+949,2015,College,Football (M),Ohio State Buckeyes,"Columbus, OH",Oregon Ducks,"Eugene, OR",,,,,1
+961,2016,College,Football (M),North Dakota State Bison,"Fargo, ND",Jacksonville State Gamecocks,"Calhoun County, AL",,,,,1
+962,2016,College,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",Clemson Tigers,"Greenville, SC",,,,,1
+974,2017,College,Football (M),Clemson Tigers,"Greenville, SC",Alabama Crimson Tide,"Tuscaloosa, AL",,,,,1
+975,2017,College,Football (M),James Madison Dukes,"Harrisonburg, VA",Youngstown State Penguins,"Youngstown, OH",,,,,1
+987,2018,College,Football (M),North Dakota State Bison,"Fargo, ND",James Madison Dukes,"Harrisonburg, VA",,,,,1
+988,2018,College,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",Georgia Bulldogs,"Athens, GA",,,,,1
+36,1903,Pro,MLB,Boston Americans,"Greater Boston, MA",Pittsburgh Pirates,"Pittsburgh, PA",Philadelphia Athletics,"Greater Philadelphia, PA",New York Giants,New York Metro Area,1
+41,1905,Pro,MLB,New York Giants,New York Metro Area,Philadelphia Athletics,"Greater Philadelphia, PA",Chicago White Sox,"Chicago, IL",Pittsburgh Pirates,"Pittsburgh, PA",1
+43,1906,Pro,MLB,Chicago White Sox,"Chicago, IL",Chicago Cubs,"Chicago, IL",New York Highlanders,New York Metro Area,New York Giants,New York Metro Area,1
+45,1907,Pro,MLB,Chicago Cubs,"Chicago, IL",Detroit Tigers,"Metro Detroit, MI",Philadelphia Athletics,"Greater Philadelphia, PA",Pittsburgh Pirates,"Pittsburgh, PA",1
+47,1908,Pro,MLB,Chicago Cubs,"Chicago, IL",Detroit Tigers,"Metro Detroit, MI",Cleveland Naps,"Cleveland, OH",New York Giants,New York Metro Area,2
+50,1909,Pro,MLB,Pittsburgh Pirates,"Pittsburgh, PA",Detroit Tigers,"Metro Detroit, MI",Chicago Cubs,"Chicago, IL",Philadelphia Phillies,"Greater Philadelphia, PA",1
+53,1910,Pro,MLB,Philadelphia Athletics,"Greater Philadelphia, PA",Chicago Cubs,"Chicago, IL",New York Highlanders,New York Metro Area,New York Giants,New York Metro Area,1
+57,1911,Pro,MLB,Philadelphia Athletics,"Greater Philadelphia, PA",New York Giants,New York Metro Area,Detroit Tigers,"Metro Detroit, MI",Chicago Cubs,"Chicago, IL",2
+61,1912,Pro,MLB,Boston Red Sox,"Greater Boston, MA",New York Giants,New York Metro Area,Washington Senators,"Washington, DC Metro Area",Philadelphia Phillies,"Greater Philadelphia, PA",1
+65,1913,Pro,MLB,Philadelphia Athletics,"Greater Philadelphia, PA",New York Giants,New York Metro Area,Boston Red Sox,"Greater Boston, MA",Philadelphia Phillies,"Greater Philadelphia, PA",1
+68,1914,Pro,MLB,Boston Braves,"Greater Boston, MA",Philadelphia Athletics,"Greater Philadelphia, PA",Boston Red Sox,"Greater Boston, MA",New York Giants,New York Metro Area,1
+71,1915,Pro,MLB,Boston Red Sox,"Greater Boston, MA",Philadelphia Phillies,"Greater Philadelphia, PA",Detroit Tigers,"Metro Detroit, MI",Boston Braves,"Greater Boston, MA",1
+74,1916,Pro,MLB,Boston Red Sox,"Greater Boston, MA",Brooklyn Robins,New York Metro Area,Chicago White Sox,"Chicago, IL",Philadelphia Phillies,"Greater Philadelphia, PA",2
+76,1917,Pro,MLB,Chicago White Sox,"Chicago, IL",New York Giants,New York Metro Area,Boston Red Sox,"Greater Boston, MA",Philadelphia Phillies,"Greater Philadelphia, PA",1
+79,1918,Pro,MLB,Boston Red Sox,"Greater Boston, MA",Chicago Cubs,"Chicago, IL",Cleveland Indians,"Cleveland, OH",New York Giants,New York Metro Area,1
+83,1919,Pro,MLB,Cincinnati Reds,"Cincinnati, OH",Chicago White Sox,"Chicago, IL",Cleveland Indians,"Cleveland, OH",New York Giants,New York Metro Area,1
+88,1920,Pro,MLB,Cleveland Indians,"Cleveland, OH",Brooklyn Robins,New York Metro Area,Chicago White Sox,"Chicago, IL",New York Giants,New York Metro Area,1
+92,1921,Pro,MLB,New York Giants,New York Metro Area,New York Yankees,New York Metro Area,Cleveland Indians,"Cleveland, OH",Pittsburgh Pirates,"Pittsburgh, PA",1
+97,1922,Pro,MLB,New York Giants,New York Metro Area,New York Yankees,New York Metro Area,St. Louis Browns,"St. Louis, MO",Cincinnati Reds,"Cincinnati, OH",2
+104,1923,Pro,MLB,New York Yankees,New York Metro Area,New York Giants,New York Metro Area,Detroit Tigers,"Metro Detroit, MI",Cincinnati Reds,"Cincinnati, OH",1
+110,1924,Pro,MLB,Washington Senators,"Washington, DC Metro Area",New York Giants,New York Metro Area,New York Yankees,New York Metro Area,Brooklyn Robins,New York Metro Area,1
+115,1925,Pro,MLB,Pittsburgh Pirates,"Pittsburgh, PA",Washington Senators,"Washington, DC Metro Area",Philadelphia Athletics,"Greater Philadelphia, PA",New York Giants,New York Metro Area,1
+120,1926,Pro,MLB,St. Louis Cardinals,"St. Louis, MO",New York Yankees,New York Metro Area,Cleveland Indians,"Cleveland, OH",Cincinnati Reds,"Cincinnati, OH",1
+126,1927,Pro,MLB,New York Yankees,New York Metro Area,Pittsburgh Pirates,"Pittsburgh, PA",Philadelphia Athletics,"Greater Philadelphia, PA",St. Louis Cardinals,"St. Louis, MO",1
+132,1928,Pro,MLB,New York Yankees,New York Metro Area,St. Louis Cardinals,"St. Louis, MO",Philadelphia Athletics,"Greater Philadelphia, PA",New York Giants,New York Metro Area,2
+137,1929,Pro,MLB,Philadelphia Athletics,"Greater Philadelphia, PA",Chicago Cubs,"Chicago, IL",Philadelphia Athletics,"Greater Philadelphia, PA",Pittsburgh Pirates,"Pittsburgh, PA",1
+142,1930,Pro,MLB,Philadelphia Athletics,"Greater Philadelphia, PA",St. Louis Cardinals,"St. Louis, MO",Washington Senators,"Washington, DC Metro Area",Chicago Cubs,"Chicago, IL",2
+148,1931,Pro,MLB,St. Louis Cardinals,"St. Louis, MO",Philadelphia Athletics,"Greater Philadelphia, PA",New York Yankees,New York Metro Area,New York Giants,New York Metro Area,1
+153,1932,Pro,MLB,New York Yankees,New York Metro Area,Chicago Cubs,"Chicago, IL",Philadelphia Athletics,"Greater Philadelphia, PA",Pittsburgh Pirates,"Pittsburgh, PA",1
+158,1933,Pro,MLB,New York Giants,New York Metro Area,Washington Senators,"Washington, DC Metro Area",New York Yankees,New York Metro Area,Pittsburgh Pirates,"Pittsburgh, PA",1
+163,1934,Pro,MLB,St. Louis Cardinals,"St. Louis, MO",Detroit Tigers,"Metro Detroit, MI",New York Yankees,New York Metro Area,St. Louis Cardinals,"St. Louis, MO",1
+168,1935,Pro,MLB,Detroit Tigers,"Metro Detroit, MI",Chicago Cubs,"Chicago, IL",New York Yankees,New York Metro Area,St. Louis Cardinals,"St. Louis, MO",1
+173,1936,Pro,MLB,New York Yankees,New York Metro Area,New York Giants,New York Metro Area,New York Yankees,New York Metro Area,Chicago Cubs,"Chicago, IL",1
+178,1937,Pro,MLB,New York Yankees,New York Metro Area,New York Giants,New York Metro Area,Detroit Tigers,"Metro Detroit, MI",Chicago Cubs,"Chicago, IL",2
+183,1938,Pro,MLB,New York Yankees,New York Metro Area,Chicago Cubs,"Chicago, IL",Boston Red Sox,"Greater Boston, MA",Pittsburgh Pirates,"Pittsburgh, PA",3
+189,1939,Pro,MLB,New York Yankees,New York Metro Area,Cincinnati Reds,"Cincinnati, OH",Boston Red Sox,"Greater Boston, MA",Cincinnati Reds,"Cincinnati, OH",4
+195,1940,Pro,MLB,Cincinnati Reds,"Cincinnati, OH",Detroit Tigers,"Metro Detroit, MI",Cleveland Indians,"Cleveland, OH",Brooklyn Dodgers,New York Metro Area,1
+201,1941,Pro,MLB,New York Yankees,New York Metro Area,Brooklyn Dodgers,New York Metro Area,Boston Red Sox,"Greater Boston, MA",St. Louis Cardinals,"St. Louis, MO",1
+207,1942,Pro,MLB,St. Louis Cardinals,"St. Louis, MO",New York Yankees,New York Metro Area,Boston Red Sox,"Greater Boston, MA",Brooklyn Dodgers,New York Metro Area,1
+213,1943,Pro,MLB,New York Yankees,New York Metro Area,St. Louis Cardinals,"St. Louis, MO",Washington Senators,"Washington, DC Metro Area",Cincinnati Reds,"Cincinnati, OH",1
+219,1944,Pro,MLB,St. Louis Cardinals,"St. Louis, MO",St. Louis Browns,"St. Louis, MO",Detroit Tigers,"Metro Detroit, MI",Pittsburgh Pirates,"Pittsburgh, PA",1
+225,1945,Pro,MLB,Detroit Tigers,"Metro Detroit, MI",Chicago Cubs,"Chicago, IL",Washington Senators,"Washington, DC Metro Area",St. Louis Cardinals,"St. Louis, MO",1
+231,1946,Pro,MLB,St. Louis Cardinals,"St. Louis, MO",Boston Red Sox,"Greater Boston, MA",Detroit Tigers,"Metro Detroit, MI",Brooklyn Dodgers,New York Metro Area,1
+239,1947,Pro,MLB,New York Yankees,New York Metro Area,Brooklyn Dodgers,New York Metro Area,Detroit Tigers,"Metro Detroit, MI",St. Louis Cardinals,"St. Louis, MO",1
+247,1948,Pro,MLB,Cleveland Indians,"Cleveland, OH",Boston Braves,"Greater Boston, MA",Boston Red Sox,"Greater Boston, MA",St. Louis Cardinals,"St. Louis, MO",1
+255,1949,Pro,MLB,New York Yankees,New York Metro Area,Brooklyn Dodgers,New York Metro Area,Boston Red Sox,"Greater Boston, MA",St. Louis Cardinals,"St. Louis, MO",1
+263,1950,Pro,MLB,New York Yankees,New York Metro Area,Philadelphia Phillies,"Greater Philadelphia, PA",Detroit Tigers,"Metro Detroit, MI",Brooklyn Dodgers,New York Metro Area,2
+271,1951,Pro,MLB,New York Yankees,New York Metro Area,New York Giants,New York Metro Area,Cleveland Indians,"Cleveland, OH",Brooklyn Dodgers,New York Metro Area,3
+279,1952,Pro,MLB,New York Yankees,New York Metro Area,Brooklyn Dodgers,New York Metro Area,Cleveland Indians,"Cleveland, OH",New York Giants,New York Metro Area,4
+287,1953,Pro,MLB,New York Yankees,New York Metro Area,Brooklyn Dodgers,New York Metro Area,Cleveland Indians,"Cleveland, OH",Milwaukee Braves,"Milwaukee, WI",5
+295,1954,Pro,MLB,New York Giants,New York Metro Area,Cleveland Indians,"Cleveland, OH",New York Yankees,New York Metro Area,Brooklyn Dodgers,New York Metro Area,1
+304,1955,Pro,MLB,Brooklyn Dodgers,New York Metro Area,New York Yankees,New York Metro Area,Cleveland Indians,"Cleveland, OH",Milwaukee Braves,"Milwaukee, WI",1
+312,1956,Pro,MLB,New York Yankees,New York Metro Area,Brooklyn Dodgers,New York Metro Area,Cleveland Indians,"Cleveland, OH",Milwaukee Braves,"Milwaukee, WI",1
+320,1957,Pro,MLB,Milwaukee Brewers,"Milwaukee, WI",New York Yankees,New York Metro Area,Chicago White Sox,"Chicago, IL",St. Louis Cardinals,"St. Louis, MO",1
+329,1958,Pro,MLB,New York Yankees,New York Metro Area,Milwaukee Braves,"Milwaukee, WI",Chicago White Sox,"Chicago, IL",Pittsburgh Pirates,"Pittsburgh, PA",1
+338,1959,Pro,MLB,Los Angeles Dodgers,"Greater Los Angeles, CA",Chicago White Sox,"Chicago, IL",Cleveland Indians,"Cleveland, OH",Milwaukee Braves,"Milwaukee, WI",1
+346,1960,Pro,MLB,Pittsburgh Pirates,"Pittsburgh, PA",New York Yankees,New York Metro Area,Baltimore Orioles,"Baltimore, MD",Milwaukee Braves,"Milwaukee, WI",1
+355,1961,Pro,MLB,New York Yankees,New York Metro Area,Cincinnati Reds,"Cincinnati, OH",Detroit Tigers,"Metro Detroit, MI",Los Angeles Dodgers,"Greater Los Angeles, CA",1
+364,1962,Pro,MLB,New York Yankees,New York Metro Area,San Francisco Giants,"San Francisco Bay Area, CA",Minnesota Twins,"Twin Cities, MN",Los Angeles Dodgers,"Greater Los Angeles, CA",2
+372,1963,Pro,MLB,Los Angeles Dodgers,"Greater Los Angeles, CA",New York Yankees,New York Metro Area,Chicago White Sox,"Chicago, IL",St. Louis Cardinals,"St. Louis, MO",1
+380,1964,Pro,MLB,St. Louis Cardinals,"St. Louis, MO",New York Yankees,New York Metro Area,Chicago White Sox,"Chicago, IL",Cincinnati Reds,"Cincinnati, OH",1
+390,1965,Pro,MLB,Los Angeles Dodgers,"Greater Los Angeles, CA",Minnesota Twins,"Twin Cities, MN",Chicago White Sox,"Chicago, IL",San Francisco Giants,"San Francisco Bay Area, CA",1
+399,1966,Pro,MLB,Baltimore Orioles,"Baltimore, MD",Los Angeles Dodgers,"Greater Los Angeles, CA",Minnesota Twins,"Twin Cities, MN",San Francisco Giants,"San Francisco Bay Area, CA",1
+409,1967,Pro,MLB,St. Louis Cardinals,"St. Louis, MO",Boston Red Sox,"Greater Boston, MA",Detroit Tigers,"Metro Detroit, MI",San Francisco Giants,"San Francisco Bay Area, CA",1
+417,1968,Pro,MLB,Detroit Tigers,"Metro Detroit, MI",St. Louis Cardinals,"St. Louis, MO",Baltimore Orioles,"Baltimore, MD",San Francisco Giants,"San Francisco Bay Area, CA",1
+425,1969,Pro,MLB,New York Mets,New York Metro Area,Baltimore Orioles,"Baltimore, MD",Minnesota Twins,"Twin Cities, MN",Atlanta Braves,"Atlanta, GA",1
+433,1970,Pro,MLB,Baltimore Orioles,"Baltimore, MD",Cincinnati Reds,"Cincinnati, OH",Minnesota Twins,"Twin Cities, MN",Pittsburgh Pirates,"Pittsburgh, PA",1
+443,1971,Pro,MLB,Pittsburgh Pirates,"Pittsburgh, PA",Baltimore Orioles,"Baltimore, MD",Oakland Athletics,"San Francisco Bay Area, CA",San Francisco Giants,"San Francisco Bay Area, CA",1
+451,1972,Pro,MLB,Oakland Athletics,"San Francisco Bay Area, CA",Cincinnati Reds,"Cincinnati, OH",Detroit Tigers,"Metro Detroit, MI",Pittsburgh Pirates,"Pittsburgh, PA",1
+459,1973,Pro,MLB,Oakland Athletics,"San Francisco Bay Area, CA",New York Mets,New York Metro Area,Baltimore Orioles,"Baltimore, MD",Cincinnati Reds,"Cincinnati, OH",2
+468,1974,Pro,MLB,Oakland Athletics,"San Francisco Bay Area, CA",Los Angeles Dodgers,"Greater Los Angeles, CA",Baltimore Orioles,"Baltimore, MD",Pittsburgh Pirates,"Pittsburgh, PA",3
+477,1975,Pro,MLB,Cincinnati Reds,"Cincinnati, OH",Boston Red Sox,"Greater Boston, MA",Oakland Athletics,"San Francisco Bay Area, CA",Pittsburgh Pirates,"Pittsburgh, PA",1
+485,1976,Pro,MLB,Cincinnati Reds,"Cincinnati, OH",New York Yankees,New York Metro Area,Kansas City Royals,"Kansas City, MO",Philadelphia Phillies,"Greater Philadelphia, PA",2
+493,1977,Pro,MLB,New York Yankees,New York Metro Area,Los Angeles Dodgers,"Greater Los Angeles, CA",Kansas City Royals,"Kansas City, MO",Philadelphia Phillies,"Greater Philadelphia, PA",1
+501,1978,Pro,MLB,New York Yankees,New York Metro Area,Los Angeles Dodgers,"Greater Los Angeles, CA",Kansas City Royals,"Kansas City, MO",Philadelphia Phillies,"Greater Philadelphia, PA",2
+511,1979,Pro,MLB,Pittsburgh Pirates,"Pittsburgh, PA",Baltimore Orioles,"Baltimore, MD",California Angels,"Greater Los Angeles, CA",Cincinnati Reds,"Cincinnati, OH",1
+520,1980,Pro,MLB,Philadelphia Phillies,"Greater Philadelphia, PA",Kansas City Royals,"Kansas City, MO",New York Yankees,New York Metro Area,Houston Astros,"Houston, TX",1
+529,1981,Pro,MLB,Los Angeles Dodgers,"Greater Los Angeles, CA",New York Yankees,New York Metro Area,Oakland Athletics,"San Francisco Bay Area, CA",Montreal Expos,"Montreal, QC",1
+540,1982,Pro,MLB,St. Louis Cardinals,"St. Louis, MO",Milwaukee Brewers,"Milwaukee, WI",California Angels,"Greater Los Angeles, CA",Atlanta Braves,"Atlanta, GA",1
+552,1983,Pro,MLB,Baltimore Orioles,"Baltimore, MD",Philadelphia Phillies,"Greater Philadelphia, PA",Chicago White Sox,"Chicago, IL",Los Angeles Dodgers,"Greater Los Angeles, CA",1
+564,1984,Pro,MLB,Detroit Tigers,"Metro Detroit, MI",San Diego Padres,"San Diego, CA",Kansas City Royals,"Kansas City, MO",Chicago Cubs,"Chicago, IL",1
+576,1985,Pro,MLB,Kansas City Royals,"Kansas City, MO",St. Louis Cardinals,"St. Louis, MO",Toronto Blue Jays,"Toronto, ON",Los Angeles Dodgers,"Greater Los Angeles, CA",1
+588,1986,Pro,MLB,New York Mets,New York Metro Area,Boston Red Sox,"Greater Boston, MA",California Angels,"Greater Los Angeles, CA",Houston Astros,"Houston, TX",1
+600,1987,Pro,MLB,Minnesota Twins,"Twin Cities, MN",St. Louis Cardinals,"St. Louis, MO",Detroit Tigers,"Metro Detroit, MI",San Francisco Giants,"San Francisco Bay Area, CA",1
+612,1988,Pro,MLB,Los Angeles Dodgers,"Greater Los Angeles, CA",Oakland Athletics,"San Francisco Bay Area, CA",Boston Red Sox,"Greater Boston, MA",New York Mets,New York Metro Area,1
+624,1989,Pro,MLB,Oakland Athletics,"San Francisco Bay Area, CA",San Francisco Giants,"San Francisco Bay Area, CA",Toronto Blue Jays,"Toronto, ON",Chicago Cubs,"Chicago, IL",1
+636,1990,Pro,MLB,Cincinnati Reds,"Cincinnati, OH",Oakland Athletics,"San Francisco Bay Area, CA",Boston Red Sox,"Greater Boston, MA",Pittsburgh Pirates,"Pittsburgh, PA",1
+649,1991,Pro,MLB,Minnesota Twins,"Twin Cities, MN",Atlanta Braves,"Atlanta, GA",Toronto Blue Jays,"Toronto, ON",Pittsburgh Pirates,"Pittsburgh, PA",1
+662,1992,Pro,MLB,Toronto Blue Jays,"Toronto, ON",Atlanta Braves,"Atlanta, GA",Oakland Athletics,"San Francisco Bay Area, CA",Pittsburgh Pirates,"Pittsburgh, PA",1
+674,1993,Pro,MLB,Toronto Blue Jays,"Toronto, ON",Philadelphia Phillies,"Greater Philadelphia, PA",Chicago White Sox,"Chicago, IL",Atlanta Braves,"Atlanta, GA",2
+697,1995,Pro,MLB,Atlanta Braves,"Atlanta, GA",Cleveland Indians,"Cleveland, OH",Seattle Mariners,"Seattle,WA",Cincinnati Reds,"Cincinnati, OH",1
+710,1996,Pro,MLB,New York Yankees,New York Metro Area,Atlanta Braves,"Atlanta, GA",Baltimore Orioles,"Baltimore, MD",St. Louis Cardinals,"St. Louis, MO",1
+723,1997,Pro,MLB,Florida Marlins,"Greater Miami Area, FL",Cleveland Indians,"Cleveland, OH",Baltimore Orioles,"Baltimore, MD",Atlanta Braves,"Atlanta, GA",1
+737,1998,Pro,MLB,New York Yankees,New York Metro Area,San Diego Padres,"San Diego, CA",Cleveland Indians,"Cleveland, OH",Atlanta Braves,"Atlanta, GA",1
+749,1999,Pro,MLB,New York Yankees,New York Metro Area,Atlanta Braves,"Atlanta, GA",Boston Red Sox,"Greater Boston, MA",New York Mets,New York Metro Area,2
+762,2000,Pro,MLB,New York Yankees,New York Metro Area,New York Mets,New York Metro Area,Seattle Mariners,"Seattle,WA",St. Louis Cardinals,"St. Louis, MO",3
+776,2001,Pro,MLB,Arizona Diamondbacks,"Metro Phoenix, AZ",New York Yankees,New York Metro Area,Seattle Mariners,"Seattle,WA",Atlanta Braves,"Atlanta, GA",1
+788,2002,Pro,MLB,Anaheim Angels,"Greater Los Angeles, CA",San Francisco Giants,"San Francisco Bay Area, CA",Minnesota Twins,"Twin Cities, MN",St. Louis Cardinals,"St. Louis, MO",1
+801,2003,Pro,MLB,Florida Marlins,"Greater Miami Area, FL",New York Yankees,New York Metro Area,Boston Red Sox,"Greater Boston, MA",Chicago Cubs,"Chicago, IL",1
+815,2004,Pro,MLB,Boston Red Sox,"Greater Boston, MA",St. Louis Cardinals,"St. Louis, MO",New York Yankees,New York Metro Area,Houston Astros,"Houston, TX",1
+827,2005,Pro,MLB,Chicago White Sox,"Chicago, IL",Houston Astros,"Houston, TX",Los Angeles Angels of Anaheim,"Greater Los Angeles, CA",St. Louis Cardinals,"St. Louis, MO",1
+840,2006,Pro,MLB,St. Louis Cardinals,"St. Louis, MO",Detroit Tigers,"Metro Detroit, MI",Oakland Athletics,"San Francisco Bay Area, CA",New York Mets,New York Metro Area,1
+853,2007,Pro,MLB,Boston Red Sox,"Greater Boston, MA",Colorado Rockies,"Denver, CO",Cleveland Indians,"Cleveland, OH",Arizona Diamondbacks,"Metro Phoenix, AZ",1
+866,2008,Pro,MLB,Philadelphia Phillies,"Greater Philadelphia, PA",Tampa Bay Rays,"Tampa Bay Area, FL",Boston Red Sox,"Greater Boston, MA",Los Angeles Dodgers,"Greater Los Angeles, CA",1
+879,2009,Pro,MLB,New York Yankees,New York Metro Area,Philadelphia Phillies,"Greater Philadelphia, PA",Los Angeles Angels of Anaheim,"Greater Los Angeles, CA",Los Angeles Dodgers,"Greater Los Angeles, CA",1
+892,2010,Pro,MLB,San Francisco Giants,"San Francisco Bay Area, CA",Texas Rangers,"Dallas-Fort Worth, TX",New York Yankees,New York Metro Area,Philadelphia Phillies,"Greater Philadelphia, PA",1
+905,2011,Pro,MLB,St. Louis Cardinals,"St. Louis, MO",Texas Rangers,"Dallas-Fort Worth, TX",Detroit Tigers,"Metro Detroit, MI",Milwaukee Brewers,"Milwaukee, WI",1
+918,2012,Pro,MLB,San Francisco Giants,"San Francisco Bay Area, CA",Detroit Tigers,"Metro Detroit, MI",New York Yankees,New York Metro Area,St. Louis Cardinals,"St. Louis, MO",1
+930,2013,Pro,MLB,Boston Red Sox,"Greater Boston, MA",St. Louis Cardinals,"St. Louis, MO",Detroit Tigers,"Metro Detroit, MI",Los Angeles Dodgers,"Greater Los Angeles, CA",1
+943,2014,Pro,MLB,San Francisco Giants,"San Francisco Bay Area, CA",Kansas City Royals,"Kansas City, MO",Baltimore Orioles,"Baltimore, MD",St. Louis Cardinals,"St. Louis, MO",1
+956,2015,Pro,MLB,Kansas City Royals,"Kansas City, MO",New York Mets,New York Metro Area,Toronto Blue Jays,"Toronto, ON",Chicago Cubs,"Chicago, IL",1
+969,2016,Pro,MLB,Chicago Cubs,"Chicago, IL",Cleveland Indians,"Cleveland, OH",Toronto Blue Jays,"Toronto, ON",Los Angeles Dodgers,"Greater Los Angeles, CA",1
+982,2017,Pro,MLB,Houston Astros,"Houston, TX",Los Angeles Dodgers,"Greater Los Angeles, CA",New York Yankees,New York Metro Area,Chicago Cubs,"Chicago, IL",1
+995,2018,Pro,MLB,Boston Red Sox,"Greater Boston, MA",Los Angeles Dodgers,"Greater Los Angeles, CA",Houston Astros,"Houston, TX",Milwaukee Brewers,"Milwaukee, WI",1
+709,1996,Pro,MLS,D.C. United,"Washington, DC Metro Area",Los Angeles Galaxy,"Greater Los Angeles, CA",Kansas Ciy Wiz,"Kansas City, MO",Tampa Bay Mutiny,"Tampa Bay Area, FL",1
+722,1997,Pro,MLS,D.C. United,"Washington, DC Metro Area",Colorado Rapids,"Denver, CO",Dallas Burn,"Dallas-Fort Worth, TX",Columbus Crew,"Columbus, OH",2
+736,1998,Pro,MLS,Chicago Fire,"Chicago, IL",D.C. United,"Washington, DC Metro Area",Los Angeles Galaxy,"Greater Los Angeles, CA",Columbus Crew,"Columbus, OH",1
+751,1999,Pro,MLS,D.C. United,"Washington, DC Metro Area",D.C. United,"Washington, DC Metro Area",Dallas Burn,"Dallas-Fort Worth, TX",Columbus Crew,"Columbus, OH",1
+763,2000,Pro,MLS,Kansas City Wizards,"Kansas City, MO",Chicago Fire,"Chicago, IL",New York MetroStars,New York Metro Area,Los Angeles Galaxy,"Greater Los Angeles, CA",1
+775,2001,Pro,MLS,San Jose Earthquakes,"San Jose-Santa Clara, CA",Los Angeles Galaxy,"Greater Los Angeles, CA",Chicago Fire,"Chicago, IL",Miami Fusion,"Greater Miami Area, FL",1
+789,2002,Pro,MLS,Los Angeles Galaxy,"Greater Los Angeles, CA",New England Revolution,"Greater Boston, MA",Columbus Crew,"Columbus, OH",Colorado Rapids,"Denver, CO",1
+803,2003,Pro,MLS,San Jose Earthquakes,"San Jose-Santa Clara, CA",Chicago Fire,"Chicago, IL",Kansas City Wizards,"Kansas City, MO",New England Revolution,"Greater Boston, MA",1
+817,2004,Pro,MLS,D.C. United,"Washington, DC Metro Area",Kansas City Wizards,"Kansas City, MO",New England Revolution,"Greater Boston, MA",Los Angeles Galaxy,"Greater Los Angeles, CA",1
+829,2005,Pro,MLS,Los Angeles Galaxy,"Greater Los Angeles, CA",New England Revolution,"Greater Boston, MA",Chicago Fire,"Chicago, IL",Colorado Rapids,"Denver, CO",1
+841,2006,Pro,MLS,Houston Dynamo,"Houston, TX",New England Revolution,"Greater Boston, MA",Colorado Rapids,"Denver, CO",D.C. United,"Washington, DC Metro Area",1
+855,2007,Pro,MLS,Houston Dynamo,"Houston, TX",New England Revolution,"Greater Boston, MA",Kansas City Wizards,"Kansas City, MO",Chicago Fire,"Chicago, IL",2
+868,2008,Pro,MLS,Columbus Crew,"Columbus, OH",New York Red Bulls,New York Metro Area,Real Salt Lake,"Salt Lake City, UT",Chicago Fire,"Chicago, IL",1
+880,2009,Pro,MLS,Real Salt Lake,"Salt Lake City, UT",Los Angeles Galaxy,"Greater Los Angeles, CA",Chicago Fire,"Chicago, IL",Houston Dynamo,"Houston, TX",1
+893,2010,Pro,MLS,Colorado Rapids,"Denver, CO",FC Dallas,"Dallas-Fort Worth, TX",Los Angeles Galaxy,"Greater Los Angeles, CA",San Jose Earthquakes,"San Jose-Santa Clara, CA",1
+906,2011,Pro,MLS,Los Angeles Galaxy,"Greater Los Angeles, CA",Houston Dynamo,"Houston, TX",Sporting Kansas City,"Kansas City, MO",Real Salt Lake,"Salt Lake City, UT",1
+920,2012,Pro,MLS,Los Angeles Galaxy,"Greater Los Angeles, CA",Houston Dynamo,"Houston, TX",Seattle Sounders FC,"Seattle,WA",D.C. United,"Washington, DC Metro Area",2
+933,2013,Pro,MLS,Sporting Kansas City,"Kansas City, MO",Real Salt Lake,"Salt Lake City, UT",Houston Dynamo,"Houston, TX",Portland Timbers,"Portland Metro Area, OR",1
+945,2014,Pro,MLS,Los Angeles Galaxy,"Greater Los Angeles, CA",New England Revolution,"Greater Boston, MA",Seattle Sounders FC,"Seattle,WA",New York Red Bulls,New York Metro Area,1
+958,2015,Pro,MLS,Portland Timbers,"Portland Metro Area, OR",Columbus Crew,"Columbus, OH",FC Dallas,"Dallas-Fort Worth, TX",New York Red Bulls,New York Metro Area,1
+972,2016,Pro,MLS,Seattle Sounders FC,"Seattle,WA",Toronto FC,"Toronto, ON",Montreal Impact,"Montreal, QC",Colorado Rapids,"Denver, CO",1
+985,2017,Pro,MLS,Toronto FC,"Toronto, ON",Seattle Sounders FC,"Seattle,WA",Columbus Crew,"Columbus, OH",Houston Dynamo,"Houston, TX",1
+236,1947,Pro,NBA,Philadelphia Warriors,"Greater Philadelphia, PA",Chicago Stags,"Chicago, IL",New York Knicks,New York Metro Area,Washington Capitols,"Washington, DC Metro Area",1
+244,1948,Pro,NBA,Baltimore Bullets,"Baltimore, MD",Philadelphia Warriors,"Greater Philadelphia, PA",Chicago Stags,"Chicago, IL",St. Louis Bombers,ERROR,1
+252,1949,Pro,NBA,Minneapolis Lakers,"Twin Cities, MN",Washington Capitols,"Washington, DC Metro Area",Rochester Royals,"Rochester, NY",New York Knicks,New York Metro Area,1
+261,1950,Pro,NBA,Minneapolis Lakers,"Twin Cities, MN",Syracuse Nationals,"Syracuse, NY",New York Knicks,New York Metro Area,Fort Wayne Pistons,"Fort Wayne, IN",2
+268,1951,Pro,NBA,Rochester Royals,"Rochester, NY",New York Knicks,New York Metro Area,Minneapolis Lakers,"Twin Cities, MN",Syracuse Nationals,"Syracuse, NY",1
+277,1952,Pro,NBA,Minneapolis Lakers,"Twin Cities, MN",New York Knicks,New York Metro Area,Rochester Royals,"Rochester, NY",Syracuse Nationals,"Syracuse, NY",1
+285,1953,Pro,NBA,Minneapolis Lakers,"Twin Cities, MN",New York Knicks,New York Metro Area,Fort Wayne Pistons,"Fort Wayne, IN",Boston Celtics,"Greater Boston, MA",2
+293,1954,Pro,NBA,Minneapolis Lakers,"Twin Cities, MN",Syracuse Nationals,"Syracuse, NY",Rochester Royals,"Rochester, NY",Boston Celtics,"Greater Boston, MA",3
+302,1955,Pro,NBA,Syracuse Nationals,"Syracuse, NY",Fort Wayne Pistons,"Fort Wayne, IN",Minneapolis Lakers,"Twin Cities, MN",Boston Celtics,"Greater Boston, MA",1
+309,1956,Pro,NBA,Philadelphia Warriors,"Greater Philadelphia, PA",Fort Wayne Pistons,"Fort Wayne, IN",St. Louis Hawks,"St. Louis, MO",Syracuse Nationals,"Syracuse, NY",1
+317,1957,Pro,NBA,Boston Celtics,"Greater Boston, MA",St. Louis Hawks,"St. Louis, MO",Minneapolis Lakers,"Twin Cities, MN",Syracuse Nationals,"Syracuse, NY",1
+326,1958,Pro,NBA,St. Louis Hawks,"St. Louis, MO",Boston Celtics,"Greater Boston, MA",Detroit Pistons,"Metro Detroit, MI",Philadelphia Warriors,"Greater Philadelphia, PA",1
+335,1959,Pro,NBA,Boston Celtics,"Greater Boston, MA",Minneapolis Lakers,"Twin Cities, MN",St. Louis Hawks,"St. Louis, MO",Syracuse Nationals,"Syracuse, NY",1
+343,1960,Pro,NBA,Boston Celtics,"Greater Boston, MA",St. Louis Hawks,"St. Louis, MO",Minneapolis Lakers,"Twin Cities, MN",Philadelphia Warriors,"Greater Philadelphia, PA",2
+352,1961,Pro,NBA,Boston Celtics,"Greater Boston, MA",St. Louis Hawks,"St. Louis, MO",Los Angeles Lakers,"Greater Los Angeles, CA",Syracuse Nationals,"Syracuse, NY",3
+361,1962,Pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",Detroit Pistons,"Metro Detroit, MI",Philadelphia 76ers,"Greater Philadelphia, PA",4
+370,1963,Pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",St. Louis Hawks,"St. Louis, MO",Cincinnati Royals,"Cincinnati, OH",5
+378,1964,Pro,NBA,Boston Celtics,"Greater Boston, MA",San Francisco Warriors,"San Francisco Bay Area, CA",St. Louis Hawks,"St. Louis, MO",Cincinnati Royals,"Cincinnati, OH",6
+387,1965,Pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",Baltimore Bullets,"Baltimore, MD",Philadelphia 76ers,"Greater Philadelphia, PA",7
+396,1966,Pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",St. Louis Hawks,"St. Louis, MO",Philadelphia 76ers,"Greater Philadelphia, PA",8
+406,1967,Pro,NBA,Philadelphia 76ers,"Greater Philadelphia, PA",San Francisco Warriors,"San Francisco Bay Area, CA",St. Louis Hawks,"St. Louis, MO",Boston Celtics,"Greater Boston, MA",1
+414,1968,Pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",San Francisco Warriors,"San Francisco Bay Area, CA",Philadelphia 76ers,"Greater Philadelphia, PA",1
+422,1969,Pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",Atlanta Hawks,"Atlanta, GA",New York Knicks,New York Metro Area,2
+430,1970,Pro,NBA,New York Knicks,New York Metro Area,Los Angeles Lakers,"Greater Los Angeles, CA",Atlanta Hawks,"Atlanta, GA",Milwaukee Bucks,"Milwaukee, WI",1
+440,1971,Pro,NBA,Milwaukee Bucks,"Milwaukee, WI",Baltimore Bullets,"Baltimore, MD",Los Angeles Lakers,"Greater Los Angeles, CA",New York Knicks,New York Metro Area,1
+448,1972,Pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",New York Knicks,New York Metro Area,Milwaukee Bucks,"Milwaukee, WI",Boston Celtics,"Greater Boston, MA",1
+456,1973,Pro,NBA,New York Knicks,New York Metro Area,Los Angeles Lakers,"Greater Los Angeles, CA",Golden State Warriors,"San Francisco Bay Area, CA",Boston Celtics,"Greater Boston, MA",1
+465,1974,Pro,NBA,Boston Celtics,"Greater Boston, MA",Milwaukee Bucks,"Milwaukee, WI",Chicago Bulls,"Chicago, IL",New York Knicks,New York Metro Area,1
+474,1975,Pro,NBA,Golden State Warriors,"San Francisco Bay Area, CA",Washington Bullets,"Washington, DC Metro Area",Chicago Bulls,"Chicago, IL",Boston Celtics,"Greater Boston, MA",1
+482,1976,Pro,NBA,Boston Celtics,"Greater Boston, MA",Phoenix Suns,"Metro Phoenix, AZ",Golden State Warriors,"San Francisco Bay Area, CA",Cleveland Cavaliers,"Cleveland, OH",1
+490,1977,Pro,NBA,Portland Trail Blazers,"Portland Metro Area, OR",Philadelphia 76ers,"Greater Philadelphia, PA",Los Angeles Lakers,"Greater Los Angeles, CA",Houston Rockets,"Houston, TX",1
+498,1978,Pro,NBA,Washington Bullets,"Washington, DC Metro Area",Seattle SuperSonics,"Seattle,WA",Denver Nuggets,"Denver, CO",Philadelphia 76ers,"Greater Philadelphia, PA",1
+508,1979,Pro,NBA,Seattle SuperSonics,"Seattle,WA",Washington Bullets,"Washington, DC Metro Area",Phoenix Suns,"Metro Phoenix, AZ",San Antonio Spurs,"San Antonio, TX",1
+517,1980,Pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Philadelphia 76ers,"Greater Philadelphia, PA",Seattle SuperSonics,"Seattle,WA",Boston Celtics,"Greater Boston, MA",1
+526,1981,Pro,NBA,Boston Celtics,"Greater Boston, MA",Houston Rockets,"Houston, TX",Kansas City Kings,"Kansas City, MO",Philadelphia 76ers,"Greater Philadelphia, PA",1
+537,1982,Pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Philadelphia 76ers,"Greater Philadelphia, PA",San Antonio Spurs,"San Antonio, TX",Boston Celtics,"Greater Boston, MA",1
+548,1983,Pro,NBA,Philadelphia 76ers,"Greater Philadelphia, PA",Los Angeles Lakers,"Greater Los Angeles, CA",San Antonio Spurs,"San Antonio, TX",Milwaukee Bucks,"Milwaukee, WI",1
+561,1984,Pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",Milwaukee Bucks,"Milwaukee, WI",Phoenix Suns,"Metro Phoenix, AZ",1
+572,1985,Pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Boston Celtics,"Greater Boston, MA",Denver Nuggets,"Denver, CO",Philadelphia 76ers,"Greater Philadelphia, PA",1
+584,1986,Pro,NBA,Boston Celtics,"Greater Boston, MA",Houston Rockets,"Houston, TX",Los Angeles Lakers,"Greater Los Angeles, CA",Milwaukee Bucks,"Milwaukee, WI",1
+597,1987,Pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Boston Celtics,"Greater Boston, MA",Seattle SuperSonics,"Seattle,WA",Detroit Pistons,"Metro Detroit, MI",1
+609,1988,Pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Detroit Pistons,"Metro Detroit, MI",Dallas Mavericks,"Dallas-Fort Worth, TX",Boston Celtics,"Greater Boston, MA",2
+621,1989,Pro,NBA,Detroit Pistons,"Metro Detroit, MI",Los Angeles Lakers,"Greater Los Angeles, CA",Phoenix Suns,"Metro Phoenix, AZ",Chicago Bulls,"Chicago, IL",1
+633,1990,Pro,NBA,Detroit Pistons,"Metro Detroit, MI",Portland Trail Blazers,"Portland Metro Area, OR",Chicago Bulls,"Chicago, IL",Phoenix Suns,"Metro Phoenix, AZ",2
+646,1991,Pro,NBA,Chicago Bulls,"Chicago, IL",Los Angeles Lakers,"Greater Los Angeles, CA",Detroit Pistons,"Metro Detroit, MI",Portland Trail Blazers,"Portland Metro Area, OR",1
+658,1992,Pro,NBA,Chicago Bulls,"Chicago, IL",Portland Trail Blazers,"Portland Metro Area, OR",Cleveland Cavaliers,"Cleveland, OH",Utah Jazz,"Salt Lake City, UT",2
+670,1993,Pro,NBA,Chicago Bulls,"Chicago, IL",Phoenix Suns,"Metro Phoenix, AZ",New York Knicks,New York Metro Area,Seattle SuperSonics,"Seattle,WA",3
+683,1994,Pro,NBA,Houston Rockets,"Houston, TX",New York Knicks,New York Metro Area,Indiana Pacers,"Indianapolis Metro Area, IN",Utah Jazz,"Salt Lake City, UT",1
+693,1995,Pro,NBA,Houston Rockets,"Houston, TX",Orlando Magic,"Greater Orlando, FL",Indiana Pacers,"Indianapolis Metro Area, IN",San Antonio Spurs,"San Antonio, TX",2
+706,1996,Pro,NBA,Chicago Bulls,"Chicago, IL",Seattle SuperSonics,"Seattle,WA",Orlando Magic,"Greater Orlando, FL",Utah Jazz,"Salt Lake City, UT",1
+719,1997,Pro,NBA,Chicago Bulls,"Chicago, IL",Utah Jazz,"Salt Lake City, UT",Houston Rockets,"Houston, TX",Miami Heat,"Greater Miami Area, FL",2
+733,1998,Pro,NBA,Chicago Bulls,"Chicago, IL",Utah Jazz,"Salt Lake City, UT",Indiana Pacers,"Indianapolis Metro Area, IN",Los Angeles Lakers,"Greater Los Angeles, CA",3
+745,1999,Pro,NBA,San Antonio Spurs,"San Antonio, TX",New York Knicks,New York Metro Area,Indiana Pacers,"Indianapolis Metro Area, IN",Portland Trail Blazers,"Portland Metro Area, OR",1
+758,2000,Pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Indiana Pacers,"Indianapolis Metro Area, IN",New York Knicks,New York Metro Area,Portland Trail Blazers,"Portland Metro Area, OR",1
+772,2001,Pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Philadelphia 76ers,"Greater Philadelphia, PA",Milwaukee Bucks,"Milwaukee, WI",San Antonio Spurs,"San Antonio, TX",2
+784,2002,Pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",New Jersey Nets,New York Metro Area,Boston Celtics,"Greater Boston, MA",Sacramento Kings,"Sacramento, CA",3
+798,2003,Pro,NBA,San Antonio Spurs,"San Antonio, TX",New Jersey Nets,New York Metro Area,Dallas Mavericks,"Dallas-Fort Worth, TX",Detroit Pistons,"Metro Detroit, MI",1
+811,2004,Pro,NBA,Detroit Pistons,"Metro Detroit, MI",Los Angeles Lakers,"Greater Los Angeles, CA",Indiana Pacers,"Indianapolis Metro Area, IN",Minnesota Timberwolves,"Twin Cities, MN",1
+824,2005,Pro,NBA,San Antonio Spurs,"San Antonio, TX",Detroit Pistons,"Metro Detroit, MI",Miami Heat,"Greater Miami Area, FL",Phoenix Suns,"Metro Phoenix, AZ",1
+836,2006,Pro,NBA,Miami Heat,"Greater Miami Area, FL",Dallas Mavericks,"Dallas-Fort Worth, TX",Detroit Pistons,"Metro Detroit, MI",Phoenix Suns,"Metro Phoenix, AZ",1
+849,2007,Pro,NBA,San Antonio Spurs,"San Antonio, TX",Cleveland Cavaliers,"Cleveland, OH",Detroit Pistons,"Metro Detroit, MI",Utah Jazz,"Salt Lake City, UT",1
+862,2008,Pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",Detroit Pistons,"Metro Detroit, MI",San Antonio Spurs,"San Antonio, TX",1
+876,2009,Pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Orlando Magic,"Greater Orlando, FL",Cleveland Cavaliers,"Cleveland, OH",Denver Nuggets,"Denver, CO",1
+888,2010,Pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Boston Celtics,"Greater Boston, MA",Orlando Magic,"Greater Orlando, FL",Phoenix Suns,"Metro Phoenix, AZ",2
+902,2011,Pro,NBA,Dallas Mavericks,"Dallas-Fort Worth, TX",Miami Heat,"Greater Miami Area, FL",Chicago Bulls,"Chicago, IL",Oklahoma City Thunder,"Oklahoma City, OK",1
+914,2012,Pro,NBA,Miami Heat,"Greater Miami Area, FL",Oklahoma City Thunder,"Oklahoma City, OK",Boston Celtics,"Greater Boston, MA",San Antonio Spurs,"San Antonio, TX",1
+926,2013,Pro,NBA,Miami Heat,"Greater Miami Area, FL",San Antonio Spurs,"San Antonio, TX",Indiana Pacers,"Indianapolis Metro Area, IN",Memphis Grizzlies,"Memphis, TN",2
+939,2014,Pro,NBA,San Antonio Spurs,"San Antonio, TX",Miami Heat,"Greater Miami Area, FL",Indiana Pacers,"Indianapolis Metro Area, IN",Oklahoma City Thunder,"Oklahoma City, OK",1
+952,2015,Pro,NBA,Golden State Warriors,"San Francisco Bay Area, CA",Cleveland Cavaliers,"Cleveland, OH",Atlanta Hawks,"Atlanta, GA",Houston Rockets,"Houston, TX",1
+966,2016,Pro,NBA,Cleveland Cavaliers,"Cleveland, OH",Golden State Warriors,"San Francisco Bay Area, CA",Toronto Raptors,"Toronto, ON",Oklahoma City Thunder,"Oklahoma City, OK",1
+979,2017,Pro,NBA,Golden State Warriors,"San Francisco Bay Area, CA",Cleveland Cavaliers,"Cleveland, OH",San Antonio Spurs,"San Antonio, TX",Boston Celtics,"Greater Boston, MA",1
+993,2018,Pro,NBA,Golden State Warriors,"San Francisco Bay Area, CA",Cleveland Cavaliers,"Cleveland, OH",Boston Celtics,"Greater Boston, MA",Houston Rockets,"Houston, TX",2
+98,1922,Pro,NFL,Canton Bulldogs,"Canton, OH",Chicago Bears,"Chicago, IL",,,,,1
+105,1923,Pro,NFL,Canton Bulldogs,"Canton, OH",Chicago Bears,"Chicago, IL",,,,,2
+112,1924,Pro,NFL,Cleveland Bulldogs,"Cleveland, OH",Chicago Bears,"Chicago, IL",,,,,1
+116,1925,Pro,NFL,Chicago Cardinals,"Chicago, IL",Pottsville Maroons,"Pottsville, PA",,,,,1
+122,1926,Pro,NFL,Frankford Yellow Jackets,"Greater Philadelphia, PA",Chicago Bears,"Chicago, IL",,,,,1
+128,1927,Pro,NFL,New York Giants,New York Metro Area,Green Bay Packers,"Green Bay, WI",,,,,1
+134,1928,Pro,NFL,Providence Steam Roller,"Providence, RI",Frankford Yellow Jackets,"Greater Philadelphia, PA",,,,,1
+139,1929,Pro,NFL,Green Bay Packers,"Green Bay, WI",New York Giants,New York Metro Area,,,,,1
+143,1930,Pro,NFL,Green Bay Packers,"Green Bay, WI",New York Giants,New York Metro Area,,,,,2
+149,1931,Pro,NFL,Green Bay Packers,"Green Bay, WI",Portsmouth Spartans,"Portsmouth, OH",,,,,3
+154,1932,Pro,NFL,Chicago Bears,"Chicago, IL",Green Bay Packers,"Green Bay, WI",,,,,1
+159,1933,Pro,NFL,Chicago Bears,"Chicago, IL",New York Giants,New York Metro Area,,,,,2
+165,1934,Pro,NFL,New York Giants,New York Metro Area,Chicago Bears,"Chicago, IL",,,,,1
+170,1935,Pro,NFL,Detroit Lions,"Metro Detroit, MI",New York Giants,New York Metro Area,,,,,1
+174,1936,Pro,NFL,Green Bay Packers,"Green Bay, WI",Boston Redskins,"Greater Boston, MA",,,,,1
+180,1937,Pro,NFL,Washington Redskins,"Washington, DC Metro Area",Chicago Bears,"Chicago, IL",,,,,1
+185,1938,Pro,NFL,New York Giants,New York Metro Area,Green Bay Packers,"Green Bay, WI",,,,,1
+191,1939,Pro,NFL,Green Bay Packers,"Green Bay, WI",New York Giants,New York Metro Area,,,,,1
+196,1940,Pro,NFL,Chicago Bears,"Chicago, IL",Washington Redskins,"Washington, DC Metro Area",,,,,1
+203,1941,Pro,NFL,Chicago Bears,"Chicago, IL",New York Giants,New York Metro Area,,,,,2
+209,1942,Pro,NFL,Washington Redskins,"Washington, DC Metro Area",Chicago Bears,"Chicago, IL",,,,,1
+215,1943,Pro,NFL,Chicago Bears,"Chicago, IL",Washington Redskins,"Washington, DC Metro Area",,,,,1
+221,1944,Pro,NFL,Green Bay Packers,"Green Bay, WI",New York Giants,New York Metro Area,,,,,1
+227,1945,Pro,NFL,Cleveland Rams,"Cleveland, OH",Washington Redskins,"Washington, DC Metro Area",,,,,1
+233,1946,Pro,NFL,Chicago Bears,"Chicago, IL",New York Giants,New York Metro Area,,,,,1
+241,1947,Pro,NFL,Chicago Cardinals,"Chicago, IL",Philadelphia Eagles,"Greater Philadelphia, PA",,,,,1
+249,1948,Pro,NFL,Philadelphia Eagles,"Greater Philadelphia, PA",Chicago Cardinals,"Chicago, IL",,,,,1
+257,1949,Pro,NFL,Philadelphia Eagles,"Greater Philadelphia, PA",Los Angeles Rams,"Greater Los Angeles, CA",,,,,2
+265,1950,Pro,NFL,Cleveland Browns,"Cleveland, OH",Los Angeles Rams,"Greater Los Angeles, CA",,,,,1
+273,1951,Pro,NFL,Los Angeles Rams,"Greater Los Angeles, CA",Cleveland Browns,"Cleveland, OH",,,,,1
+281,1952,Pro,NFL,Detroit Lions,"Metro Detroit, MI",Cleveland Browns,"Cleveland, OH",,,,,1
+289,1953,Pro,NFL,Detroit Lions,"Metro Detroit, MI",Cleveland Browns,"Cleveland, OH",,,,,2
+297,1954,Pro,NFL,Cleveland Browns,"Cleveland, OH",Detroit Lions,"Metro Detroit, MI",,,,,1
+306,1955,Pro,NFL,Cleveland Browns,"Cleveland, OH",Los Angeles Rams,"Greater Los Angeles, CA",,,,,2
+314,1956,Pro,NFL,New York Giants,New York Metro Area,Chicago Bears,"Chicago, IL",,,,,1
+322,1957,Pro,NFL,Detroit Lions,"Metro Detroit, MI",Cleveland Browns,"Cleveland, OH",,,,,1
+331,1958,Pro,NFL,Baltimore Colts,"Baltimore, MD",New York Giants,New York Metro Area,,,,,1
+340,1959,Pro,NFL,Baltimore Colts,"Baltimore, MD",New York Giants,New York Metro Area,,,,,2
+348,1960,Pro,NFL,Philadelphia Eagles,"Greater Philadelphia, PA",Green Bay Packers,"Green Bay, WI",,,,,1
+356,1961,Pro,NFL,Green Bay Packers,"Green Bay, WI",New York Giants,New York Metro Area,,,,,1
+365,1962,Pro,NFL,Green Bay Packers,"Green Bay, WI",New York Giants,New York Metro Area,,,,,2
+374,1963,Pro,NFL,Chicago Bears,"Chicago, IL",New York Giants,New York Metro Area,,,,,1
+382,1964,Pro,NFL,Cleveland Browns,"Cleveland, OH",Baltimore Colts,"Baltimore, MD",,,,,1
+392,1965,Pro,NFL,Green Bay Packers,"Green Bay, WI",Cleveland Browns,"Cleveland, OH",,,,,1
+401,1966,Pro,NFL,Green Bay Packers,"Green Bay, WI",Dallas Cowboys,"Dallas-Fort Worth, TX",,,,,2
+404,1967,Pro,NFL,Green Bay Packers,"Green Bay, WI",Kansas City Chiefs,"Kansas City, MO",Dallas Cowboys,"Dallas-Fort Worth, TX",,,3
+412,1968,Pro,NFL,Green Bay Packers,"Green Bay, WI",Oakland Raiders,"San Francisco Bay Area, CA",Dallas Cowboys,"Dallas-Fort Worth, TX",Los Angeles Rams,"Greater Los Angeles, CA",4
+420,1969,Pro,NFL,New York Jets,New York Metro Area,Baltimore Colts,"Baltimore, MD",Cleveland Browns,"Cleveland, OH",Minnesota Vikings,"Twin Cities, MN",1
+428,1970,Pro,NFL,Kansas City Chiefs,"Kansas City, MO",Minnesota Vikings,"Twin Cities, MN",Cleveland Browns,"Cleveland, OH",Dallas Cowboys,"Dallas-Fort Worth, TX",1
+438,1971,Pro,NFL,Baltimore Colts,"Baltimore, MD",Dallas Cowboys,"Dallas-Fort Worth, TX",Oakland Raiders,"San Francisco Bay Area, CA",San Francisco 49ers,"San Francisco Bay Area, CA",1
+446,1972,Pro,NFL,Dallas Cowboys,"Dallas-Fort Worth, TX",Miami Dolphins,"Greater Miami Area, FL",Baltimore Colts,"Baltimore, MD",San Francisco 49ers,"San Francisco Bay Area, CA",1
+454,1973,Pro,NFL,Miami Dolphins,"Greater Miami Area, FL",Washington Redskins,"Washington, DC Metro Area",Pittsburgh Steelers,"Pittsburgh, PA",Dallas Cowboys,"Dallas-Fort Worth, TX",1
+463,1974,Pro,NFL,Miami Dolphins,"Greater Miami Area, FL",Minnesota Vikings,"Twin Cities, MN",Oakland Raiders,"San Francisco Bay Area, CA",Dallas Cowboys,"Dallas-Fort Worth, TX",2
+472,1975,Pro,NFL,Pittsburgh Steelers,"Pittsburgh, PA",Minnesota Vikings,"Twin Cities, MN",Oakland Raiders,"San Francisco Bay Area, CA",Los Angeles Rams,"Greater Los Angeles, CA",1
+480,1976,Pro,NFL,Pittsburgh Steelers,"Pittsburgh, PA",Dallas Cowboys,"Dallas-Fort Worth, TX",Oakland Raiders,"San Francisco Bay Area, CA",Los Angeles Rams,"Greater Los Angeles, CA",2
+488,1977,Pro,NFL,Oakland Raiders,"San Francisco Bay Area, CA",Minnesota Vikings,"Twin Cities, MN",Pittsburgh Steelers,"Pittsburgh, PA",Los Angeles Rams,"Greater Los Angeles, CA",1
+496,1978,Pro,NFL,Dallas Cowboys,"Dallas-Fort Worth, TX",Denver Broncos,"Denver, CO",Oakland Raiders,"San Francisco Bay Area, CA",Minnesota Vikings,"Twin Cities, MN",1
+506,1979,Pro,NFL,Pittsburgh Steelers,"Pittsburgh, PA",Dallas Cowboys,"Dallas-Fort Worth, TX",Houston Oilers,"Houston, TX",Los Angeles Rams,"Greater Los Angeles, CA",1
+515,1980,Pro,NFL,Pittsburgh Steelers,"Pittsburgh, PA",Los Angeles Rams,"Greater Los Angeles, CA",Houston Oilers,"Houston, TX",Tampa Bay Buccaneers,"Tampa Bay Area, FL",2
+524,1981,Pro,NFL,Oakland Raiders,"San Francisco Bay Area, CA",Philadelphia Eagles,"Greater Philadelphia, PA",San Diego Chargers,"San Diego, CA",Dallas Cowboys,"Dallas-Fort Worth, TX",1
+534,1982,Pro,NFL,San Francisco 49ers,"San Francisco Bay Area, CA",Cincinnati Bengals,"Cincinnati, OH",San Diego Chargers,"San Diego, CA",Dallas Cowboys,"Dallas-Fort Worth, TX",1
+546,1983,Pro,NFL,Washington Redskins,"Washington, DC Metro Area",Miami Dolphins,"Greater Miami Area, FL",New York Jets,New York Metro Area,Dallas Cowboys,"Dallas-Fort Worth, TX",1
+558,1984,Pro,NFL,Los Angeles Raiders,"Greater Los Angeles, CA",Washington Redskins,"Washington, DC Metro Area",Seattle Seahawks,"Seattle,WA",San Francisco 49ers,"San Francisco Bay Area, CA",1
+570,1985,Pro,NFL,San Francisco 49ers,"San Francisco Bay Area, CA",Miami Dolphins,"Greater Miami Area, FL",Pittsburgh Steelers,"Pittsburgh, PA",Chicago Bears,"Chicago, IL",1
+582,1986,Pro,NFL,Chicago Bears,"Chicago, IL",New England Patriots,"Greater Boston, MA",Miami Dolphins,"Greater Miami Area, FL",Los Angeles Rams,"Greater Los Angeles, CA",1
+594,1987,Pro,NFL,New York Giants,New York Metro Area,Denver Broncos,"Denver, CO",Cleveland Browns,"Cleveland, OH",Washington Redskins,"Washington, DC Metro Area",1
+606,1988,Pro,NFL,Washington Redskins,"Washington, DC Metro Area",Denver Broncos,"Denver, CO",Cleveland Browns,"Cleveland, OH",Minnesota Vikings,"Twin Cities, MN",1
+618,1989,Pro,NFL,San Francisco 49ers,"San Francisco Bay Area, CA",Cincinnati Bengals,"Cincinnati, OH",Buffalo Bills,"Buffalo, NY",Chicago Bears,"Chicago, IL",1
+630,1990,Pro,NFL,San Francisco 49ers,"San Francisco Bay Area, CA",Denver Broncos,"Denver, CO",Cleveland Browns,"Cleveland, OH",Los Angeles Rams,"Greater Los Angeles, CA",2
+643,1991,Pro,NFL,New York Giants,New York Metro Area,Buffalo Bills,"Buffalo, NY",Los Angeles Raiders,"Greater Los Angeles, CA",San Francisco 49ers,"San Francisco Bay Area, CA",1
+656,1992,Pro,NFL,Washington Redskins,"Washington, DC Metro Area",Buffalo Bills,"Buffalo, NY",Denver Broncos,"Denver, CO",Detroit Lions,"Metro Detroit, MI",1
+668,1993,Pro,NFL,Dallas Cowboys,"Dallas-Fort Worth, TX",Buffalo Bills,"Buffalo, NY",Miami Dolphins,"Greater Miami Area, FL",San Francisco 49ers,"San Francisco Bay Area, CA",1
+680,1994,Pro,NFL,Dallas Cowboys,"Dallas-Fort Worth, TX",Buffalo Bills,"Buffalo, NY",Kansas City Chiefs,"Kansas City, MO",San Francisco 49ers,"San Francisco Bay Area, CA",2
+691,1995,Pro,NFL,San Francisco 49ers,"San Francisco Bay Area, CA",San Diego Chargers,"San Diego, CA",Pittsburgh Steelers,"Pittsburgh, PA",Dallas Cowboys,"Dallas-Fort Worth, TX",1
+703,1996,Pro,NFL,Dallas Cowboys,"Dallas-Fort Worth, TX",Pittsburgh Steelers,"Pittsburgh, PA",Indianapolis Colts,"Indianapolis Metro Area, IN",Green Bay Packers,"Green Bay, WI",1
+716,1997,Pro,NFL,Green Bay Packers,"Green Bay, WI",New England Patriots,"Greater Boston, MA",Jacksonville Jaguars,"Jacksonville, FL",Carolina Panthers,"Charlotte Metro Area, NC",1
+730,1998,Pro,NFL,Denver Broncos,"Denver, CO",Green Bay Packers,"Green Bay, WI",Pittsburgh Steelers,"Pittsburgh, PA",San Francisco 49ers,"San Francisco Bay Area, CA",1
+743,1999,Pro,NFL,Denver Broncos,"Denver, CO",Atlanta Falcons,"Atlanta, GA",New York Jets,New York Metro Area,Minnesota Vikings,"Twin Cities, MN",2
+756,2000,Pro,NFL,St. Louis Rams,"St. Louis, MO",Tennessee Titans,"Nashville, TN",Jacksonville Jaguars,"Jacksonville, FL",Tampa Bay Buccaneers,"Tampa Bay Area, FL",1
+769,2001,Pro,NFL,Baltimore Ravens,"Baltimore, MD",New York Giants,New York Metro Area,Oakland Raiders,"San Francisco Bay Area, CA",Minnesota Vikings,"Twin Cities, MN",1
+782,2002,Pro,NFL,New England Patriots,"Greater Boston, MA",St. Louis Rams,"St. Louis, MO",Pittsburgh Steelers,"Pittsburgh, PA",Philadelphia Eagles,"Greater Philadelphia, PA",1
+795,2003,Pro,NFL,Tampa Bay Buccaneers,"Tampa Bay Area, FL",Oakland Raiders,"San Francisco Bay Area, CA",Tennessee Titans,"Nashville, TN",Philadelphia Eagles,"Greater Philadelphia, PA",1
+809,2004,Pro,NFL,New England Patriots,"Greater Boston, MA",Carolina Panthers,"Charlotte Metro Area, NC",Indianapolis Colts,"Indianapolis Metro Area, IN",Philadelphia Eagles,"Greater Philadelphia, PA",1
+822,2005,Pro,NFL,New England Patriots,"Greater Boston, MA",Philadelphia Eagles,"Greater Philadelphia, PA",Pittsburgh Steelers,"Pittsburgh, PA",Atlanta Falcons,"Atlanta, GA",2
+834,2006,Pro,NFL,Pittsburgh Steelers,"Pittsburgh, PA",Seattle Seahawks,"Seattle,WA",Denver Broncos,"Denver, CO",Carolina Panthers,"Charlotte Metro Area, NC",1
+847,2007,Pro,NFL,Indianapolis Colts,"Indianapolis Metro Area, IN",Chicago Bears,"Chicago, IL",New England Patriots,"Greater Boston, MA",New Orleans Saints,"New Orleans, LA",1
+860,2008,Pro,NFL,New York Giants,New York Metro Area,New England Patriots,"Greater Boston, MA",San Diego Chargers,"San Diego, CA",Green Bay Packers,"Green Bay, WI",1
+873,2009,Pro,NFL,Pittsburgh Steelers,"Pittsburgh, PA",Arizona Cardinals,"Metro Phoenix, AZ",Baltimore Colts,"Baltimore, MD",Philadelphia Eagles,"Greater Philadelphia, PA",1
+886,2010,Pro,NFL,New Orleans Saints,"New Orleans, LA",Indianapolis Colts,"Indianapolis Metro Area, IN",New York Jets,New York Metro Area,Minnesota Vikings,"Twin Cities, MN",1
+899,2011,Pro,NFL,Green Bay Packers,"Green Bay, WI",Pittsburgh Steelers,"Pittsburgh, PA",New York Jets,New York Metro Area,Chicago Bears,"Chicago, IL",1
+912,2012,Pro,NFL,New York Giants,New York Metro Area,New England Patriots,"Greater Boston, MA",Baltimore Colts,"Baltimore, MD",San Francisco 49ers,"San Francisco Bay Area, CA",1
+925,2013,Pro,NFL,Baltimore Ravens,"Baltimore, MD",San Francisco 49ers,"San Francisco Bay Area, CA",New England Patriots,"Greater Boston, MA",Atlanta Falcons,"Atlanta, GA",1
+937,2014,Pro,NFL,Seattle Seahawks,"Seattle,WA",Denver Broncos,"Denver, CO",New England Patriots,"Greater Boston, MA",San Francisco 49ers,"San Francisco Bay Area, CA",1
+950,2015,Pro,NFL,New England Patriots,"Greater Boston, MA",Seattle Seahawks,"Seattle,WA",Indianapolis Colts,"Indianapolis Metro Area, IN",Green Bay Packers,"Green Bay, WI",1
+963,2016,Pro,NFL,Denver Broncos,"Denver, CO",Carolina Panthers,"Charlotte Metro Area, NC",New England Patriots,"Greater Boston, MA",Arizona Cardinals,"Metro Phoenix, AZ",1
+976,2017,Pro,NFL,New England Patriots,"Greater Boston, MA",Atlanta Falcons,"Atlanta, GA",Pittsburgh Steelers,"Pittsburgh, PA",Green Bay Packers,"Green Bay, WI",1
+989,2018,Pro,NFL,Philadelphia Eagles,"Greater Philadelphia, PA",New England Patriots,"Greater Boston, MA",Jacksonville Jaguars,"Jacksonville, FL",Minnesota Vikings,"Twin Cities, MN",1
+78,1918,Pro,NHL,Toronto Arenas,"Toronto, ON",Montreal Canadiens,"Montreal, QC",,,,,1
+82,1919,Pro,NHL,Montreal Canadiens,"Montreal, QC",Ottawa Senators,"Ottawa, ON",,,,,1
+91,1921,Pro,NHL,Ottawa Senators,"Ottawa, ON",Toronto St. Patricks,"Toronto, ON",,"Toronto, ON",,"Toronto, ON",1
+96,1922,Pro,NHL,Toronto St. Patricks,"Toronto, ON",Ottawa Senators,"Ottawa, ON",,,,,1
+103,1923,Pro,NHL,Ottawa Senators,"Ottawa, ON",Montreal Canadiens,"Montreal, QC",,,,,1
+109,1924,Pro,NHL,Montreal Canadiens,"Montreal, QC",Ottawa Senators,"Ottawa, ON",,,,,1
+114,1925,Pro,NHL,Montreal Canadiens,"Montreal, QC",Hamilton Tigers,"Hamilton, ON",Toronto St Patricks,"Toronto, ON",,,2
+119,1926,Pro,NHL,Montreal Maroons,"Montreal, QC",Ottawa Senators,"Ottawa, ON",Pittsburgh Pirates,"Pittsburgh, PA",,,1
+125,1927,Pro,NHL,Ottawa Senators,"Ottawa, ON",Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area,Montreal Canadiens,"Montreal, QC",1
+131,1928,Pro,NHL,New York Rangers,New York Metro Area,Montreal Maroons,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Montreal Canadiens,"Montreal, QC",1
+136,1929,Pro,NHL,Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area,Toronto Maple Leafs,"Toronto, ON",Montreal Canadiens,"Montreal, QC",1
+141,1930,Pro,NHL,Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area,Montreal Maroons,"Montreal, QC",1
+147,1931,Pro,NHL,Montreal Canadiens,"Montreal, QC",Chicago Black Hawks,"Chicago, IL",New York Rangers,New York Metro Area,Boston Bruins,"Greater Boston, MA",2
+152,1932,Pro,NHL,Toronto Maple Leafs,"Toronto, ON",New York Rangers,New York Metro Area,Montreal Maroons,"Montreal, QC",Montreal Canadiens,"Montreal, QC",1
+157,1933,Pro,NHL,New York Rangers,New York Metro Area,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Boston Bruins,"Greater Boston, MA",1
+162,1934,Pro,NHL,Chicago Black Hawks,"Chicago, IL",Detroit Red Wings,"Metro Detroit, MI",Montreal Maroons,"Montreal, QC",Toronto Maple Leafs,"Toronto, ON",1
+167,1935,Pro,NHL,Montreal Maroons,"Montreal, QC",Toronto Maple Leafs,"Toronto, ON",New York Rangers,New York Metro Area,Boston Bruins,"Greater Boston, MA",1
+172,1936,Pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Toronto Maple Leafs,"Toronto, ON",New York Americans,New York Metro Area,Montreal Maroons,"Montreal, QC",1
+177,1937,Pro,NHL,Detroit Red Wings,"Metro Detroit, MI",New York Rangers,New York Metro Area,Montreal Maroons,"Montreal, QC",Montreal Canadiens,"Montreal, QC",2
+182,1938,Pro,NHL,Chicago Black Hawks,"Chicago, IL",Toronto Maple Leafs,"Toronto, ON",New York Americans,New York Metro Area,Boston Bruins,"Greater Boston, MA",1
+188,1939,Pro,NHL,Boston Bruins,"Greater Boston, MA",Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",New York Rangers,New York Metro Area,1
+194,1940,Pro,NHL,New York Rangers,New York Metro Area,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Boston Bruins,"Greater Boston, MA",1
+200,1941,Pro,NHL,Boston Bruins,"Greater Boston, MA",Detroit Red Wings,"Metro Detroit, MI",Toronto Maple Leafs,"Toronto, ON",Chicago Black Hawks,"Chicago, IL",1
+206,1942,Pro,NHL,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area,1
+212,1943,Pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Boston Bruins,"Greater Boston, MA",Montreal Canadiens,"Montreal, QC",Toronto Maple Leafs,"Toronto, ON",1
+218,1944,Pro,NHL,Montreal Canadiens,"Montreal, QC",Chicago Black Hawks,"Chicago, IL",Detroit Red Wings,"Metro Detroit, MI",Toronto Maple Leafs,"Toronto, ON",1
+224,1945,Pro,NHL,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Boston Bruins,"Greater Boston, MA",Montreal Canadiens,"Montreal, QC",1
+230,1946,Pro,NHL,Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Detroit Red Wings,"Metro Detroit, MI",Chicago Black Hawks,"Chicago, IL",1
+237,1947,Pro,NHL,Toronto Maple Leafs,"Toronto, ON",Montreal Canadiens,"Montreal, QC",Detroit Red Wings,"Metro Detroit, MI",Boston Bruins,"Greater Boston, MA",1
+245,1948,Pro,NHL,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",New York Rangers,New York Metro Area,Boston Bruins,"Greater Boston, MA",2
+253,1949,Pro,NHL,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Boston Bruins,"Greater Boston, MA",Montreal Canadiens,"Montreal, QC",3
+260,1950,Pro,NHL,Detroit Red Wings,"Metro Detroit, MI",New York Rangers,New York Metro Area,Montreal Canadiens,"Montreal, QC",Toronto Maple Leafs,"Toronto, ON",1
+269,1951,Pro,NHL,Toronto Maple Leafs,"Toronto, ON",Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Detroit Red Wings,"Metro Detroit, MI",1
+276,1952,Pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Toronto Maple Leafs,"Toronto, ON",1
+284,1953,Pro,NHL,Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Detroit Red Wings,"Metro Detroit, MI",Chicago Black Hawks,"Chicago, IL",1
+292,1954,Pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Toronto Maple Leafs,"Toronto, ON",1
+301,1955,Pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Toronto Maple Leafs,"Toronto, ON",2
+310,1956,Pro,NHL,Montreal Canadiens,"Montreal, QC",Detroit Red Wings,"Metro Detroit, MI",Toronto Maple Leafs,"Toronto, ON",New York Rangers,New York Metro Area,1
+318,1957,Pro,NHL,Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area,Detroit Red Wings,"Metro Detroit, MI",2
+327,1958,Pro,NHL,Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area,Detroit Red Wings,"Metro Detroit, MI",3
+336,1959,Pro,NHL,Montreal Canadiens,"Montreal, QC",Toronto Maple Leafs,"Toronto, ON",Boston Bruins,"Greater Boston, MA",Chicago Black Hawks,"Chicago, IL",4
+344,1960,Pro,NHL,Montreal Canadiens,"Montreal, QC",Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Chicago Black Hawks,"Chicago, IL",5
+353,1961,Pro,NHL,Chicago Black Hawks,"Chicago, IL",Detroit Red Wings,"Metro Detroit, MI",Toronto Maple Leafs,"Toronto, ON",Montreal Canadiens,"Montreal, QC",1
+362,1962,Pro,NHL,Toronto Maple Leafs,"Toronto, ON",Chicago Black Hawks,"Chicago, IL",New York Rangers,New York Metro Area,Montreal Canadiens,"Montreal, QC",1
+369,1963,Pro,NHL,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Chicago Black Hawks,"Chicago, IL",Montreal Canadiens,"Montreal, QC",2
+377,1964,Pro,NHL,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Chicago Black Hawks,"Chicago, IL",Montreal Canadiens,"Montreal, QC",3
+388,1965,Pro,NHL,Montreal Canadiens,"Montreal, QC",Chicago Black Hawks,"Chicago, IL",Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",1
+397,1966,Pro,NHL,Montreal Canadiens,"Montreal, QC",Detroit Red Wings,"Metro Detroit, MI",Chicago Black Hawks,"Chicago, IL",Toronto Maple Leafs,"Toronto, ON",2
+407,1967,Pro,NHL,Toronto Maple Leafs,"Toronto, ON",Montreal Canadiens,"Montreal, QC",New York Rangers,New York Metro Area,Chicago Black Hawks,"Chicago, IL",1
+415,1968,Pro,NHL,Montreal Canadiens,"Montreal, QC",St. Louis Blues,"St. Louis, MO",Minnesota North Stars,"Twin Cities, MN",Chicago Black Hawks,"Chicago, IL",1
+423,1969,Pro,NHL,Montreal Canadiens,"Montreal, QC",St. Louis Blues,"St. Louis, MO",Los Angeles Kings,"Greater Los Angeles, CA",Boston Bruins,"Greater Boston, MA",2
+431,1970,Pro,NHL,Boston Bruins,"Greater Boston, MA",St. Louis Blues,"St. Louis, MO",Pittsburgh Penguins,"Pittsburgh, PA",Chicago Black Hawks,"Chicago, IL",1
+441,1971,Pro,NHL,Montreal Canadiens,"Montreal, QC",Chicago Black Hawks,"Chicago, IL",New York Rangers,New York Metro Area,Minnesota North Stars,"Twin Cities, MN",1
+449,1972,Pro,NHL,Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area,Chicago Black Hawks,"Chicago, IL",St. Louis Blues,"St. Louis, MO",1
+457,1973,Pro,NHL,Montreal Canadiens,"Montreal, QC",Chicago Black Hawks,"Chicago, IL",New York Rangers,New York Metro Area,Philadelphia Flyers,"Greater Philadelphia, PA",1
+466,1974,Pro,NHL,Philadelphia Flyers,"Greater Philadelphia, PA",Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area,Chicago Black Hawks,"Chicago, IL",1
+475,1975,Pro,NHL,Philadelphia Flyers,"Greater Philadelphia, PA",Buffalo Sabres,"Buffalo, NY",Montreal Canadiens,"Montreal, QC",New York Islanders,New York Metro Area,2
+483,1976,Pro,NHL,Montreal Canadiens,"Montreal, QC",Philadelphia Flyers,"Greater Philadelphia, PA",Boston Bruins,"Greater Boston, MA",New York Islanders,New York Metro Area,1
+491,1977,Pro,NHL,Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Philadelphia Flyers,"Greater Philadelphia, PA",New York Islanders,New York Metro Area,2
+499,1978,Pro,NHL,Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Philadelphia Flyers,"Greater Philadelphia, PA",Toronto Maple Leafs,"Toronto, ON",3
+509,1979,Pro,NHL,Montreal Canadiens,"Montreal, QC",New York Rangers,New York Metro Area,Boston Bruins,"Greater Boston, MA",New York Islanders,New York Metro Area,4
+518,1980,Pro,NHL,New York Islanders,New York Metro Area,Philadelphia Flyers,"Greater Philadelphia, PA",Buffalo Sabres,"Buffalo, NY",Minnesota North Stars,"Twin Cities, MN",1
+527,1981,Pro,NHL,New York Islanders,New York Metro Area,Minnesota North Stars,"Twin Cities, MN",Calgary Flames,"Calgary, AB",New York Rangers,New York Metro Area,2
+538,1982,Pro,NHL,New York Islanders,New York Metro Area,Vancouver Canucks,"Vancouver, BC",Chicago Black Hawks,"Chicago, IL",Quebec Nordiques,"Quebec City, QC",3
+550,1983,Pro,NHL,New York Islanders,New York Metro Area,Edmonton Oilers,"Edmonton, AB",Chicago Black Hawks,"Chicago, IL",Boston Bruins,"Greater Boston, MA",4
+562,1984,Pro,NHL,Edmonton Oilers,"Edmonton, AB",New York Islanders,New York Metro Area,Minnesota North Stars,"Twin Cities, MN",Montreal Canadiens,"Montreal, QC",1
+574,1985,Pro,NHL,Edmonton Oilers,"Edmonton, AB",Philadelphia Flyers,"Greater Philadelphia, PA",Chicago Blackhawks,"Chicago, IL",Quebec Nordiques,"Quebec City, QC",2
+586,1986,Pro,NHL,Montreal Canadiens,"Montreal, QC",Calgary Flames,"Calgary, AB",St. Louis Blues,"St. Louis, MO",New York Rangers,New York Metro Area,1
+598,1987,Pro,NHL,Edmonton Oilers,"Edmonton, AB",Philadelphia Flyers,"Greater Philadelphia, PA",Detroit Red Wings,"Metro Detroit, MI",Montreal Canadiens,"Montreal, QC",1
+610,1988,Pro,NHL,Edmonton Oilers,"Edmonton, AB",Boston Bruins,"Greater Boston, MA",Detroit Red Wings,"Metro Detroit, MI",New Jersey Devils,New York Metro Area,2
+622,1989,Pro,NHL,Calgary Flames,"Calgary, AB",Montreal Canadiens,"Montreal, QC",Chicago Blackhawks,"Chicago, IL",Philadelphia Flyers,"Greater Philadelphia, PA",1
+634,1990,Pro,NHL,Edmonton Oilers,"Edmonton, AB",Boston Bruins,"Greater Boston, MA",Chicago Blackhawks,"Chicago, IL",Washington Capitals,"Washington, DC Metro Area",1
+647,1991,Pro,NHL,Pittsburgh Penguins,"Pittsburgh, PA",Minnesota North Stars,"Twin Cities, MN",Edmonton Oilers,"Edmonton, AB",Boston Bruins,"Greater Boston, MA",1
+660,1992,Pro,NHL,Pittsburgh Penguins,"Pittsburgh, PA",Chicago Blackhawks,"Chicago, IL",Edmonton Oilers,"Edmonton, AB",Boston Bruins,"Greater Boston, MA",2
+673,1993,Pro,NHL,Montreal Canadiens,"Montreal, QC",Los Angeles Kings,"Greater Los Angeles, CA",Toronto Maple Leafs,"Toronto, ON",New York Islanders,New York Metro Area,1
+685,1994,Pro,NHL,New York Rangers,New York Metro Area,Vancouver Canucks,"Vancouver, BC",Toronto Maple Leafs,"Toronto, ON",New Jersey Devils,New York Metro Area,1
+695,1995,Pro,NHL,New Jersey Devils,New York Metro Area,Detroit Red Wings,"Metro Detroit, MI",Chicago Blackhawks,"Chicago, IL",Philadelphia Flyers,"Greater Philadelphia, PA",1
+707,1996,Pro,NHL,Colorado Avalanche,"Denver, CO",Florida Panthers,"Greater Miami Area, FL",Detroit Red Wings,"Metro Detroit, MI",Pittsburgh Penguins,"Pittsburgh, PA",1
+721,1997,Pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Philadelphia Flyers,"Greater Philadelphia, PA",Colorado Avalanche,"Denver, CO",New York Rangers,New York Metro Area,1
+735,1998,Pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Washington Capitals,"Washington, DC Metro Area",Dallas Stars,"Dallas-Fort Worth, TX",Buffalo Sabres,"Buffalo, NY",2
+747,1999,Pro,NHL,Dallas Stars,"Dallas-Fort Worth, TX",Buffalo Sabres,"Buffalo, NY",Colorado Avalanche,"Denver, CO",Toronto Maple Leafs,"Toronto, ON",1
+761,2000,Pro,NHL,New Jersey Devils,New York Metro Area,Dallas Stars,"Dallas-Fort Worth, TX",Colorado Avalanche,"Denver, CO",Philadelphia Flyers,"Greater Philadelphia, PA",1
+773,2001,Pro,NHL,Colorado Avalanche,"Denver, CO",New Jersey Devils,New York Metro Area,St. Louis Blues,"St. Louis, MO",Pittsburgh Penguins,"Pittsburgh, PA",1
+786,2002,Pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Carolina Hurricanes,"Greater Raleigh, NC",Colorado Avalanche,"Denver, CO",Toronto Maple Leafs,"Toronto, ON",1
+799,2003,Pro,NHL,New Jersey Devils,New York Metro Area,Mighty Ducks of Anaheim,"Greater Los Angeles, CA",Minnesota Wild,"Twin Cities, MN",Ottaw Senators,"Ottawa, ON",1
+813,2004,Pro,NHL,Tampa Bay Lightning,"Tampa Bay Area, FL",Calgary Flames,"Calgary, AB",San Jose Sharks,"San Jose-Santa Clara, CA",Philadelphia Flyers,"Greater Philadelphia, PA",1
+839,2006,Pro,NHL,Carolina Hurricanes,"Greater Raleigh, NC",Edmonton Oilers,"Edmonton, AB",Mighty Ducks of Anaheim,"Greater Los Angeles, CA",Buffalo Sabres,"Buffalo, NY",1
+852,2007,Pro,NHL,Anaheim Ducks,"Greater Los Angeles, CA",Ottawa Senators,"Ottawa, ON",Detroit Red Wings,"Metro Detroit, MI",Buffalo Sabres,"Buffalo, NY",1
+864,2008,Pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Pittsburgh Penguins,"Pittsburgh, PA",Dallas Stars,"Dallas-Fort Worth, TX",Philadelphia Flyers,"Greater Philadelphia, PA",1
+878,2009,Pro,NHL,Pittsburgh Penguins,"Pittsburgh, PA",Detroit Red Wings,"Metro Detroit, MI",Chicago Blackhawks,"Chicago, IL",Carolina Hurricanes,"Greater Raleigh, NC",1
+890,2010,Pro,NHL,Chicago Blackhawks,"Chicago, IL",Philadelphia Flyers,"Greater Philadelphia, PA",San Jose Sharks,"San Jose-Santa Clara, CA",Montreal Canadiens,"Montreal, QC",1
+903,2011,Pro,NHL,Boston Bruins,"Greater Boston, MA",Vancouver Canucks,"Vancouver, BC",San Jose Sharks,"San Jose-Santa Clara, CA",Tampa Bay Lightning,"Tampa Bay Area, FL",1
+916,2012,Pro,NHL,Los Angeles Kings,"Greater Los Angeles, CA",New Jersey Devils,New York Metro Area,Phoenix Coyotes,"Metro Phoenix, AZ",New York Rangers,New York Metro Area,1
+928,2013,Pro,NHL,Chicago Blackhawks,"Chicago, IL",Boston Bruins,"Greater Boston, MA",Los Angeles Kings,"Greater Los Angeles, CA",Pittsburgh Penguins,"Pittsburgh, PA",1
+942,2014,Pro,NHL,Los Angeles Kings,"Greater Los Angeles, CA",New York Rangers,New York Metro Area,Montreal Canadiens,"Montreal, QC",Chicago Blackhawks,"Chicago, IL",1
+954,2015,Pro,NHL,Chicago Blackhawks,"Chicago, IL",Tampa Bay Lightning,"Tampa Bay Area, FL",New York Rangers,New York Metro Area,Anaheim Ducks,"Greater Los Angeles, CA",1
+967,2016,Pro,NHL,Pittsburgh Penguins,"Pittsburgh, PA",San Jose Sharks,"San Jose-Santa Clara, CA",St. Louis Blues,"St. Louis, MO",Tampa Bay Lightning,"Tampa Bay Area, FL",1
+980,2017,Pro,NHL,Pittsburgh Penguins,"Pittsburgh, PA",Nashville Predators,"Nashville, TN",Anaheim Ducks,"Greater Los Angeles, CA",Ottawa Senators,"Ottawa, ON",2
+992,2018,Pro,NHL,Washington Capitals,"Washington, DC Metro Area",Vegas Golden Knights,"Las Vegas, NV",Winnipeg Jets,"Winnipeg, MB",Tampa Bay Lightning,"Tampa Bay Area, FL",1
+543,1982,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Central Florida Knights,"Greater Orlando, FL",Connecticut Huskies,"Hartford, CT",University of Missouri,ERROR,1
+555,1983,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",George Mason Patriots,"Washington, DC Metro Area",Massachusetts Minutemen,"Springfield, MA",Connecticut Huskies,"Hartford, CT",2
+567,1984,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Connecticut Huskies,"Hartford, CT",Massachusetts Minutemen,"Springfield, MA",California Golden Bears,"San Francisco Bay Area, CA",3
+579,1985,College,Soccer (W),George Mason Patriots,"Washington, DC Metro Area",North Carolina Tar Heels,"Greater Raleigh, NC",Colorado College Tigers,"Colorado Springs, CO",Massachusetts Minutemen,"Springfield, MA",1
+591,1986,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Colorado College Tigers,"Colorado Springs, CO",George Mason Patriots,"Washington, DC Metro Area",Massachusetts Minutemen,"Springfield, MA",1
+602,1987,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Massachusetts Minutemen,"Springfield, MA",Texas Longhorns,"Austin, TX",Central Florida Knights,"Greater Orlando, FL",2
+614,1988,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",North Carolina State Wolfpack,"Greater Raleigh, NC",California Golden Bears,"San Francisco Bay Area, CA",Wisconsin Badgers,"Madison, WI",3
+626,1989,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Colorado College Tigers,"Colorado Springs, CO",North Carolina State Wolfpack,"Greater Raleigh, NC",Santa Clara Broncos,"San Jose-Santa Clara, CA",4
+638,1990,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Connecticut Huskies,"Hartford, CT",Colorado College Tigers,"Colorado Springs, CO",Santa Clara Broncos,"San Jose-Santa Clara, CA",5
+652,1991,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Wisconsin Badgers,"Madison, WI",Colorado College Tigers,"Colorado Springs, CO",Virginia Cavaliers,"Charlottesville, VA",6
+664,1992,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Duke Blue Devils,"Greater Raleigh, NC",Hartford Hawks,"Hartford, CT",Santa Clara Broncos,"San Jose-Santa Clara, CA",7
+676,1993,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",George Mason Patriots,"Washington, DC Metro Area",Massachusetts Minutemen,"Springfield, MA",Stanford Cardinal,"San Francisco Bay Area, CA",8
+687,1994,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Notre Dame Fighting Irish,"Notre Dame, IN",Connecticut Huskies,"Hartford, CT",Portland Pilots,"Portland Metro Area, OR",9
+700,1995,College,Soccer (W),Notre Dame Fighting Irish,"Notre Dame, IN",Portland Pilots,"Portland Metro Area, OR",North Carolina Tar Heels,"Greater Raleigh, NC",Saint Mary's Gaels,"San Francisco Bay Area, CA",1
+712,1996,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Notre Dame Fighting Irish,"Notre Dame, IN",Portland Pilots,"Portland Metro Area, OR",Santa Clara Broncos,"San Jose-Santa Clara, CA",1
+725,1997,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Connecticut Huskies,"Hartford, CT",Notre Dame Fighting Irish,"Notre Dame, IN",Santa Clara Broncos,"San Jose-Santa Clara, CA",2
+739,1998,College,Soccer (W),Florida Gators,"Gainesville, FL",North Carolina Tar Heels,"Greater Raleigh, NC",Portland Pilots,"Portland Metro Area, OR",Santa Clara Broncos,"San Jose-Santa Clara, CA",1
+753,1999,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Notre Dame Fighting Irish,"Notre Dame, IN",Penn State Nittany Lions,"State College, PA",Santa Clara Broncos,"San Jose-Santa Clara, CA",1
+765,2000,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",UCLA Bruins,"Greater Los Angeles, CA",Notre Dame Fighting Irish,"Notre Dame, IN",Portland Pilots,"Portland Metro Area, OR",2
+778,2001,College,Soccer (W),Santa Clara Broncos,"San Jose-Santa Clara, CA",North Carolina Tar Heels,"Greater Raleigh, NC",Florida Gators,"Gainesville, FL",Portland Pilots,"Portland Metro Area, OR",1
+792,2002,College,Soccer (W),Portland Pilots,"Portland Metro Area, OR",Santa Clara Broncos,"San Jose-Santa Clara, CA",North Carolina Tar Heels,"Greater Raleigh, NC",Penn State Nittany Lions,"State College, PA",1
+805,2003,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Connecticut Huskies,"Hartford, CT",Florida State Seminoles,"Tallahassee, FL",UCLA Bruins,"Greater Los Angeles, CA",1
+819,2004,College,Soccer (W),Notre Dame Fighting Irish,"Notre Dame, IN",UCLA Bruins,"Greater Los Angeles, CA",Princeton Tigers,"Princeton, NJ",Santa Clara Broncos,"San Jose-Santa Clara, CA",1
+831,2005,College,Soccer (W),Portland Pilots,"Portland Metro Area, OR",UCLA Bruins,"Greater Los Angeles, CA",Florida State Seminoles,"Tallahassee, FL",Penn State Nittany Lions,"State College, PA",1
+844,2006,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Notre Dame Fighting Irish,"Notre Dame, IN",Florida State Seminoles,"Tallahassee, FL",UCLA Bruins,"Greater Los Angeles, CA",1
+856,2007,College,Soccer (W),South Carolina Gamecocks,"Columbia, SC",Florida State Seminoles,"Tallahassee, FL",Notre Dame Fighting Irish,"Notre Dame, IN",UCLA Bruins,"Greater Los Angeles, CA",1
+869,2008,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Notre Dame Fighting Irish,"Notre Dame, IN",Stanford Cardinal,"San Francisco Bay Area, CA",UCLA Bruins,"Greater Los Angeles, CA",1
+883,2009,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Stanford Cardinal,"San Francisco Bay Area, CA",Notre Dame Fighting Irish,"Notre Dame, IN",UCLA Bruins,"Greater Los Angeles, CA",2
+895,2010,College,Soccer (W),Notre Dame Fighting Irish,"Notre Dame, IN",Stanford Cardinal,"San Francisco Bay Area, CA",Boston College Eagles,"Greater Boston, MA",Ohio State Buckeyes,"Columbus, OH",1
+908,2011,College,Soccer (W),Stanford Cardinal,"San Francisco Bay Area, CA",Duke Blue Devils,"Greater Raleigh, NC",Florida State Seminoles,"Tallahassee, FL",Wake Forest Demon Deacons,"Winston-Salem, NC",1
+921,2012,College,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Penn State Nittany Lions,"State College, PA",Florida State Seminoles,"Tallahassee, FL",Stanford Cardinal,"San Francisco Bay Area, CA",1
+934,2013,College,Soccer (W),UCLA Bruins,"Greater Los Angeles, CA",Florida State Seminoles,"Tallahassee, FL",Virginia Cavaliers,"Charlottesville, VA",Virginia Tech Hokies,"Blacksburg, VA",1
+946,2014,College,Soccer (W),Florida State Seminoles,"Tallahassee, FL",Virginia Cavaliers,"Charlottesville, VA",Stanford Cardinal,"San Francisco Bay Area, CA",Texas A&M Aggies,"College Station, TX",1
+959,2015,College,Soccer (W),Penn State Nittany Lions,"State College, PA",Duke Blue Devils,"Greater Raleigh, NC",Florida State Seminoles,"Tallahassee, FL",Rutgers Scarlet Knights,"New Brunswick, NJ",1
+973,2016,College,Soccer (W),South Carolina Gamecocks,"Columbia, SC",West Virginia Mountaineers,"Morgantown, WV",Georgetown Hoyas,"Washington, DC Metro Area",North Carolina Tar Heels,"Greater Raleigh, NC",1
+986,2017,College,Soccer (W),Stanford Cardinal,"San Francisco Bay Area, CA",UCLA Bruins,"Greater Los Angeles, CA",South Carolina Gamecocks,"Columbia, SC",Duke Blue Devils,"Greater Raleigh, NC",1
+531,1981,College,Volleyball (W),South Carolina Gamecocks,"Columbia, SC",UCLA Bruins,"Greater Los Angeles, CA",San Diego State Aztecs,"San Diego, CA",Pacific Tigers,"Stockton, CA",1
+542,1982,College,Volleyball (W),Hawaii Warriors,"Honolulu, HI",South Carolina Gamecocks,"Columbia, SC",San Diego State Aztecs,"San Diego, CA",Stanford Cardinal,"San Francisco Bay Area, CA",1
+554,1983,College,Volleyball (W),Hawaii Warriors,"Honolulu, HI",UCLA Bruins,"Greater Los Angeles, CA",Stanford Cardinal,"San Francisco Bay Area, CA",Pacific Tigers,"Stockton, CA",2
+566,1984,College,Volleyball (W),UCLA Bruins,"Greater Los Angeles, CA",Stanford Cardinal,"San Francisco Bay Area, CA",Pacific Tigers,"Stockton, CA",San Jose State Spartans,"San Jose-Santa Clara, CA",1
+578,1985,College,Volleyball (W),Pacific Tigers,"Stockton, CA",Stanford Cardinal,"San Francisco Bay Area, CA",South Carolina Gamecocks,"Columbia, SC",UCLA Bruins,"Greater Los Angeles, CA",1
+590,1986,College,Volleyball (W),Pacific Tigers,"Stockton, CA",Nebraska Cornhuskers,"Lincoln, NE",Texas Longhorns,"Austin, TX",Stanford Cardinal,"San Francisco Bay Area, CA",2
+603,1987,College,Volleyball (W),Hawaii Warriors,"Honolulu, HI",Stanford Cardinal,"San Francisco Bay Area, CA",Illinois Fighting Illini,"Champaign-Urbana, IL",Texas Longhorns,"Austin, TX",1
+615,1988,College,Volleyball (W),Texas Longhorns,"Austin, TX",Hawaii Warriors,"Honolulu, HI",Illinois Fighting Illini,"Champaign-Urbana, IL",UCLA Bruins,"Greater Los Angeles, CA",1
+627,1989,College,Volleyball (W),Long Beach State 49ers,"Greater Los Angeles, CA",Nebraska Cornhuskers,"Lincoln, NE",Texas-Arlington Mavericks,"Dallas-Fort Worth, TX",UCLA Bruins,"Greater Los Angeles, CA",1
+639,1990,College,Volleyball (W),UCLA Bruins,"Greater Los Angeles, CA",Pacific Tigers,"Stockton, CA",LSU Fighting Tigers,"Baton Rouge, LA",Nebraska Cornhuskers,"Lincoln, NE",1
+651,1991,College,Volleyball (W),UCLA Bruins,"Greater Los Angeles, CA",Long Beach State 49ers,"Greater Los Angeles, CA",LSU Fighting Tigers,"Baton Rouge, LA",Ohio State Buckeyes,"Columbus, OH",2
+665,1992,College,Volleyball (W),Stanford Cardinal,"San Francisco Bay Area, CA",UCLA Bruins,"Greater Los Angeles, CA",Long Beach State 49ers,"Greater Los Angeles, CA",Florida Gators,"Gainesville, FL",1
+677,1993,College,Volleyball (W),Long Beach State 49ers,"Greater Los Angeles, CA",Penn State Nittany Lions,"State College, PA",Brigham Young Cougars,"Provo, UT",Florida Gators,"Gainesville, FL",1
+688,1994,College,Volleyball (W),Stanford Cardinal,"San Francisco Bay Area, CA",UCLA Bruins,"Greater Los Angeles, CA",Penn State Nittany Lions,"State College, PA",Ohio State Buckeyes,"Columbus, OH",1
+699,1995,College,Volleyball (W),Nebraska Cornhuskers,"Lincoln, NE",Texas Longhorns,"Austin, TX",Stanford Cardinal,"San Francisco Bay Area, CA",Michigan State Spartans,"East Lansing, MI",1
+713,1996,College,Volleyball (W),Stanford Cardinal,"San Francisco Bay Area, CA",Hawaii Warriors,"Honolulu, HI",Nebraska Cornhuskers,"Lincoln, NE",Florida Gators,"Gainesville, FL",1
+726,1997,College,Volleyball (W),Stanford Cardinal,"San Francisco Bay Area, CA",Penn State Nittany Lions,"State College, PA",Long Beach State 49ers,"Greater Los Angeles, CA",Florida Gators,"Gainesville, FL",2
+740,1998,College,Volleyball (W),Long Beach State 49ers,"Greater Los Angeles, CA",Penn State Nittany Lions,"State College, PA",Nebraska Cornhuskers,"Lincoln, NE",Florida Gators,"Gainesville, FL",1
+752,1999,College,Volleyball (W),Penn State Nittany Lions,"State College, PA",Stanford Cardinal,"San Francisco Bay Area, CA",Long Beach State 49ers,"Greater Los Angeles, CA",Pacific Tigers,"Stockton, CA",1
+766,2000,College,Volleyball (W),Nebraska Cornhuskers,"Lincoln, NE",Wisconsin Badgers,"Madison, WI",Hawaii Warriors,"Honolulu, HI",South Carolina Gamecocks,"Columbia, SC",1
+779,2001,College,Volleyball (W),Stanford Cardinal,"San Francisco Bay Area, CA",Long Beach State 49ers,"Greater Los Angeles, CA",Arizona Wildcats,"Tucson, AZ",Nebraska Cornhuskers,"Lincoln, NE",1
+791,2002,College,Volleyball (W),South Carolina Gamecocks,"Columbia, SC",Stanford Cardinal,"San Francisco Bay Area, CA",Hawaii Warriors,"Honolulu, HI",Florida Gators,"Gainesville, FL",1
+804,2003,College,Volleyball (W),South Carolina Gamecocks,"Columbia, SC",Florida Gators,"Gainesville, FL",Hawaii Warriors,"Honolulu, HI",Minnesota Golden Gophers,"Twin Cities, MN",2
+818,2004,College,Volleyball (W),Stanford Cardinal,"San Francisco Bay Area, CA",Minnesota Golden Gophers,"Twin Cities, MN",South Carolina Gamecocks,"Columbia, SC",Washington Huskies,"Seattle,WA",1
+830,2005,College,Volleyball (W),Washington Huskies,"Seattle,WA",Nebraska Cornhuskers,"Lincoln, NE",Santa Clara Broncos,"San Jose-Santa Clara, CA",Tennessee Volunteers,"Knoxville, TN",1
+843,2006,College,Volleyball (W),Nebraska Cornhuskers,"Lincoln, NE",Stanford Cardinal,"San Francisco Bay Area, CA",UCLA Bruins,"Greater Los Angeles, CA",Washington Huskies,"Seattle,WA",1
+857,2007,College,Volleyball (W),Penn State Nittany Lions,"State College, PA",Stanford Cardinal,"San Francisco Bay Area, CA",California Golden Bears,"San Francisco Bay Area, CA",South Carolina Gamecocks,"Columbia, SC",1
+870,2008,College,Volleyball (W),Penn State Nittany Lions,"State College, PA",Stanford Cardinal,"San Francisco Bay Area, CA",Nebraska Cornhuskers,"Lincoln, NE",Texas Longhorns,"Austin, TX",2
+882,2009,College,Volleyball (W),Penn State Nittany Lions,"State College, PA",Texas Longhorns,"Austin, TX",Hawaii Warriors,"Honolulu, HI",Minnesota Golden Gophers,"Twin Cities, MN",3
+896,2010,College,Volleyball (W),Penn State Nittany Lions,"State College, PA",California Golden Bears,"San Francisco Bay Area, CA",Texas Longhorns,"Austin, TX",South Carolina Gamecocks,"Columbia, SC",4
+909,2011,College,Volleyball (W),UCLA Bruins,"Greater Los Angeles, CA",Illinois Fighting Illini,"Champaign-Urbana, IL",Florida State Seminoles,"Tallahassee, FL",South Carolina Gamecocks,"Columbia, SC",1
+922,2012,College,Volleyball (W),Texas Longhorns,"Austin, TX",Oregon Ducks,"Eugene, OR",Michigan Wolverines,"Ann Arbor, MI",Penn State Nittany Lions,"State College, PA",1
+932,2013,College,Volleyball (W),Penn State Nittany Lions,"State College, PA",Wisconsin Badgers,"Madison, WI",Texas Longhorns,"Austin, TX",Washington Huskies,"Seattle,WA",1
+947,2014,College,Volleyball (W),Penn State Nittany Lions,"State College, PA",Brigham Young Cougars,"Provo, UT",Stanford Cardinal,"San Francisco Bay Area, CA",Texas Longhorns,"Austin, TX",2
+960,2015,College,Volleyball (W),Nebraska Cornhuskers,"Lincoln, NE",Texas Longhorns,"Austin, TX",Kansas Jayhawks,"Lawrence, KS",Minnesota Golden Gophers,"Twin Cities, MN",1
+971,2016,College,Volleyball (W),Stanford Cardinal,"San Francisco Bay Area, CA",Texas Longhorns,"Austin, TX",Minnesota Golden Gophers,"Twin Cities, MN",Nebraska Cornhuskers,"Lincoln, NE",1
+984,2017,College,Volleyball (W),Nebraska Cornhuskers,"Lincoln, NE",Florida Gators,"Gainesville, FL",Penn State Nittany Lions,"State College, PA",Stanford Cardinal,"San Francisco Bay Area, CA",1
