@@ -4,7 +4,10 @@
 ## Milestones
 
 [Milestone 1](https://firas.moosvi.com/courses/data301/project/milestone01.html): Create project repository, fill out README and other files, select an appropriate dataset, and load in the data.
+
 [Milestone 2](https://canvas.ubc.ca/courses/64282/external_tools/19925): Practice Markdown, learn git branching and merging, create a method chain function, and conduct an EDA/analysis.
+
+[Milestone 3](https://canvas.ubc.ca/courses/64282/external_tools/19925): Address feedback, make repository public, process data for Tableau, and create a release for repository.
 
 ## Describe your topic/interest in about 150-200 words
 
