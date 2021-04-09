@@ -23,5 +23,9 @@ Paul Gray: I am from Calgary, Alberta, and have always been interested in sports
 
 ## References
 
- Dataset: https://github.com/the-pudding/data/tree/master/titletowns by Sam Vickars
+Dataset: https://github.com/the-pudding/data/tree/master/titletowns by Sam Vickars
  - Sources: MLB: baseball-reference.com; NBA: basketball-reference.com; NFL: pro-football-reference.com; NHL: hockey-reference.com; MLS: worldfootball.net; CFL: cfhof.ca; NCAA: ncaa.com, sports-reference.com/cbb, sports-reference.com/cfb
+
+## Link to Online Project Dashboard
+
+https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346742/views

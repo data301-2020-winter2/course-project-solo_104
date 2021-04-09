@@ -85,7 +85,7 @@ def winstreak_history(df,team,sport): #gives a visual history of all a team's wi
     df1 = df[(df['First Place']==team)&(df['Sport']==sport)]
     minyear = df1['Year'].min()
     maxyear = df1['Year'].max()
-    sns.distplot(df1['Year'], kde=False, bins=(maxyear-minyear)).set_title('Win History')
+    sns.distplot(df1['Year'], kde=False, bins=(maxyear-minyear)).set_title('Win History of the '+team)
     
 def team_weakness(df,team,sport): #gives all the teams that have defeated a team in the finals, and the number of times they have beaten them
     
